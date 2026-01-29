@@ -1,0 +1,1278 @@
+year,date,race_name,pos,num_driver,driver,team,laps,time,points
+2025,16 Mar,Australia,1,4,Lando Norris,McLaren,57,1:42:06.304,25
+2025,16 Mar,Australia,2,1,Max Verstappen,Red Bull Racing,57,+0.895s,18
+2025,16 Mar,Australia,3,63,George Russell,Mercedes,57,+8.481s,15
+2025,16 Mar,Australia,4,12,Kimi Antonelli,Mercedes,57,+10.135s,12
+2025,16 Mar,Australia,5,23,Alexander Albon,Williams,57,+12.773s,10
+2025,16 Mar,Australia,6,18,Lance Stroll,Aston Martin,57,+17.413s,8
+2025,16 Mar,Australia,7,27,Nico Hulkenberg,Kick Sauber,57,+18.423s,6
+2025,16 Mar,Australia,8,16,Charles Leclerc,Ferrari,57,+19.826s,4
+2025,16 Mar,Australia,9,81,Oscar Piastri,McLaren,57,+20.448s,2
+2025,16 Mar,Australia,10,44,Lewis Hamilton,Ferrari,57,+22.473s,1
+2025,16 Mar,Australia,11,10,Pierre Gasly,Alpine,57,+26.502s,0
+2025,16 Mar,Australia,12,22,Yuki Tsunoda,Racing Bulls,57,+29.884s,0
+2025,16 Mar,Australia,13,31,Esteban Ocon,Haas F1 Team,57,+33.161s,0
+2025,16 Mar,Australia,14,87,Oliver Bearman,Haas F1 Team,57,+40.351s,0
+2025,16 Mar,Australia,NC,30,Liam Lawson,Red Bull Racing,46,DNF,0
+2025,16 Mar,Australia,NC,5,Gabriel Bortoleto,Kick Sauber,45,DNF,0
+2025,16 Mar,Australia,NC,14,Fernando Alonso,Aston Martin,32,DNF,0
+2025,16 Mar,Australia,NC,55,Carlos Sainz,Williams,0,DNF,0
+2025,16 Mar,Australia,NC,7,Jack Doohan,Alpine,0,DNF,0
+2025,16 Mar,Australia,NC,6,Isack Hadjar,Racing Bulls,0,DNS,0
+2025,23 Mar,China,1,81,Oscar Piastri,McLaren,56,1:30:55.026,25
+2025,23 Mar,China,2,4,Lando Norris,McLaren,56,+9.748s,18
+2025,23 Mar,China,3,63,George Russell,Mercedes,56,+11.097s,15
+2025,23 Mar,China,4,1,Max Verstappen,Red Bull Racing,56,+16.656s,12
+2025,23 Mar,China,5,31,Esteban Ocon,Haas F1 Team,56,+49.969s,10
+2025,23 Mar,China,6,12,Kimi Antonelli,Mercedes,56,+53.748s,8
+2025,23 Mar,China,7,23,Alexander Albon,Williams,56,+56.321s,6
+2025,23 Mar,China,8,87,Oliver Bearman,Haas F1 Team,56,+61.303s,4
+2025,23 Mar,China,9,18,Lance Stroll,Aston Martin,56,+70.204s,2
+2025,23 Mar,China,10,55,Carlos Sainz,Williams,56,+76.387s,1
+2025,23 Mar,China,11,6,Isack Hadjar,Racing Bulls,56,+78.875s,0
+2025,23 Mar,China,12,30,Liam Lawson,Red Bull Racing,56,+81.147s,0
+2025,23 Mar,China,13,7,Jack Doohan,Alpine,56,+88.401s,0
+2025,23 Mar,China,14,5,Gabriel Bortoleto,Kick Sauber,55,+1,lap,0
+2025,23 Mar,China,15,27,Nico Hulkenberg,Kick Sauber,55,+1,lap,0
+2025,23 Mar,China,16,22,Yuki Tsunoda,Racing Bulls,55,+1,lap,0
+2025,23 Mar,China,NC,14,Fernando Alonso,Aston Martin,4,DNF,0
+2025,23 Mar,China,DQ,16,Charles Leclerc,Ferrari,DSQ,0
+2025,23 Mar,China,DQ,44,Lewis Hamilton,Ferrari,DSQ,0
+2025,23 Mar,China,DQ,10,Pierre Gasly,Alpine,DSQ,0
+2025,06 Apr,Japan,1,1,Max Verstappen,Red Bull Racing,53,1:22:06.983,25
+2025,06 Apr,Japan,2,4,Lando Norris,McLaren,53,+1.423s,18
+2025,06 Apr,Japan,3,81,Oscar Piastri,McLaren,53,+2.129s,15
+2025,06 Apr,Japan,4,16,Charles Leclerc,Ferrari,53,+16.097s,12
+2025,06 Apr,Japan,5,63,George Russell,Mercedes,53,+17.362s,10
+2025,06 Apr,Japan,6,12,Kimi Antonelli,Mercedes,53,+18.671s,8
+2025,06 Apr,Japan,7,44,Lewis Hamilton,Ferrari,53,+29.182s,6
+2025,06 Apr,Japan,8,6,Isack Hadjar,Racing Bulls,53,+37.134s,4
+2025,06 Apr,Japan,9,23,Alexander Albon,Williams,53,+40.367s,2
+2025,06 Apr,Japan,10,87,Oliver Bearman,Haas F1 Team,53,+54.529s,1
+2025,06 Apr,Japan,11,14,Fernando Alonso,Aston Martin,53,+57.333s,0
+2025,06 Apr,Japan,12,22,Yuki Tsunoda,Red Bull Racing,53,+58.401s,0
+2025,06 Apr,Japan,13,10,Pierre Gasly,Alpine,53,+62.122s,0
+2025,06 Apr,Japan,14,55,Carlos Sainz,Williams,53,+74.129s,0
+2025,06 Apr,Japan,15,7,Jack Doohan,Alpine,53,+81.314s,0
+2025,06 Apr,Japan,16,27,Nico Hulkenberg,Kick Sauber,53,+81.957s,0
+2025,06 Apr,Japan,17,30,Liam Lawson,Racing Bulls,53,+82.734s,0
+2025,06 Apr,Japan,18,31,Esteban Ocon,Haas F1 Team,53,+83.438s,0
+2025,06 Apr,Japan,19,5,Gabriel Bortoleto,Kick Sauber,53,+83.897s,0
+2025,06 Apr,Japan,20,18,Lance Stroll,Aston Martin,52,+1,lap,0
+2025,13 Apr,Bahrain,1,81,Oscar Piastri,McLaren,57,1:35:39.435,25
+2025,13 Apr,Bahrain,2,63,George Russell,Mercedes,57,+15.499s,18
+2025,13 Apr,Bahrain,3,4,Lando Norris,McLaren,57,+16.273s,15
+2025,13 Apr,Bahrain,4,16,Charles Leclerc,Ferrari,57,+19.679s,12
+2025,13 Apr,Bahrain,5,44,Lewis Hamilton,Ferrari,57,+27.993s,10
+2025,13 Apr,Bahrain,6,1,Max Verstappen,Red Bull Racing,57,+34.395s,8
+2025,13 Apr,Bahrain,7,10,Pierre Gasly,Alpine,57,+36.002s,6
+2025,13 Apr,Bahrain,8,31,Esteban Ocon,Haas F1 Team,57,+44.244s,4
+2025,13 Apr,Bahrain,9,22,Yuki Tsunoda,Red Bull Racing,57,+45.061s,2
+2025,13 Apr,Bahrain,10,87,Oliver Bearman,Haas F1 Team,57,+47.594s,1
+2025,13 Apr,Bahrain,11,12,Kimi Antonelli,Mercedes,57,+48.016s,0
+2025,13 Apr,Bahrain,12,23,Alexander Albon,Williams,57,+48.839s,0
+2025,13 Apr,Bahrain,13,6,Isack Hadjar,Racing Bulls,57,+56.314s,0
+2025,13 Apr,Bahrain,14,7,Jack Doohan,Alpine,57,+57.806s,0
+2025,13 Apr,Bahrain,15,14,Fernando Alonso,Aston Martin,57,+60.340s,0
+2025,13 Apr,Bahrain,16,30,Liam Lawson,Racing Bulls,57,+64.435s,0
+2025,13 Apr,Bahrain,17,18,Lance Stroll,Aston Martin,57,+65.489s,0
+2025,13 Apr,Bahrain,18,5,Gabriel Bortoleto,Kick Sauber,57,+66.872s,0
+2025,13 Apr,Bahrain,NC,55,Carlos Sainz,Williams,45,DNF,0
+2025,13 Apr,Bahrain,DQ,27,Nico Hulkenberg,Kick Sauber,DSQ,0
+2025,20 Apr,Saudi Arabia,1,81,Oscar Piastri,McLaren,50,1:21:06.758,25
+2025,20 Apr,Saudi Arabia,2,1,Max Verstappen,Red Bull Racing,50,+2.843s,18
+2025,20 Apr,Saudi Arabia,3,16,Charles Leclerc,Ferrari,50,+8.104s,15
+2025,20 Apr,Saudi Arabia,4,4,Lando Norris,McLaren,50,+9.196s,12
+2025,20 Apr,Saudi Arabia,5,63,George Russell,Mercedes,50,+27.236s,10
+2025,20 Apr,Saudi Arabia,6,12,Kimi Antonelli,Mercedes,50,+34.688s,8
+2025,20 Apr,Saudi Arabia,7,44,Lewis Hamilton,Ferrari,50,+39.073s,6
+2025,20 Apr,Saudi Arabia,8,55,Carlos Sainz,Williams,50,+64.630s,4
+2025,20 Apr,Saudi Arabia,9,23,Alexander Albon,Williams,50,+66.515s,2
+2025,20 Apr,Saudi Arabia,10,6,Isack Hadjar,Racing Bulls,50,+67.091s,1
+2025,20 Apr,Saudi Arabia,11,14,Fernando Alonso,Aston Martin,50,+75.917s,0
+2025,20 Apr,Saudi Arabia,12,30,Liam Lawson,Racing Bulls,50,+78.451s,0
+2025,20 Apr,Saudi Arabia,13,87,Oliver Bearman,Haas F1 Team,50,+79.194s,0
+2025,20 Apr,Saudi Arabia,14,31,Esteban Ocon,Haas F1 Team,50,+99.723s,0
+2025,20 Apr,Saudi Arabia,15,27,Nico Hulkenberg,Kick Sauber,49,+1,lap,0
+2025,20 Apr,Saudi Arabia,16,18,Lance Stroll,Aston Martin,49,+1,lap,0
+2025,20 Apr,Saudi Arabia,17,7,Jack Doohan,Alpine,49,+1,lap,0
+2025,20 Apr,Saudi Arabia,18,5,Gabriel Bortoleto,Kick Sauber,49,+1,lap,0
+2025,20 Apr,Saudi Arabia,NC,22,Yuki Tsunoda,Red Bull Racing,1,DNF,0
+2025,20 Apr,Saudi Arabia,NC,10,Pierre Gasly,Alpine,0,DNF,0
+2025,04 May,Miami,1,81,Oscar Piastri,McLaren,57,1:28:51.587,25
+2025,04 May,Miami,2,4,Lando Norris,McLaren,57,+4.630s,18
+2025,04 May,Miami,3,63,George Russell,Mercedes,57,+37.644s,15
+2025,04 May,Miami,4,1,Max Verstappen,Red Bull Racing,57,+39.956s,12
+2025,04 May,Miami,5,23,Alexander Albon,Williams,57,+48.067s,10
+2025,04 May,Miami,6,12,Kimi Antonelli,Mercedes,57,+55.502s,8
+2025,04 May,Miami,7,16,Charles Leclerc,Ferrari,57,+57.036s,6
+2025,04 May,Miami,8,44,Lewis Hamilton,Ferrari,57,+60.186s,4
+2025,04 May,Miami,9,55,Carlos Sainz,Williams,57,+60.577s,2
+2025,04 May,Miami,10,22,Yuki Tsunoda,Red Bull Racing,57,+74.434s,1
+2025,04 May,Miami,11,6,Isack Hadjar,Racing Bulls,57,+74.602s,0
+2025,04 May,Miami,12,31,Esteban Ocon,Haas F1 Team,57,+82.006s,0
+2025,04 May,Miami,13,10,Pierre Gasly,Alpine,57,+90.445s,0
+2025,04 May,Miami,14,27,Nico Hulkenberg,Kick Sauber,56,+1,lap,0
+2025,04 May,Miami,15,14,Fernando Alonso,Aston Martin,56,+1,lap,0
+2025,04 May,Miami,16,18,Lance Stroll,Aston Martin,56,+1,lap,0
+2025,04 May,Miami,NC,30,Liam Lawson,Racing Bulls,36,DNF,0
+2025,04 May,Miami,NC,5,Gabriel Bortoleto,Kick Sauber,30,DNF,0
+2025,04 May,Miami,NC,87,Oliver Bearman,Haas F1 Team,27,DNF,0
+2025,04 May,Miami,NC,7,Jack Doohan,Alpine,0,DNF,0
+2025,18 May,Emilia-Romagna,1,1,Max Verstappen,Red Bull Racing,63,1:31:33.199,25
+2025,18 May,Emilia-Romagna,2,4,Lando Norris,McLaren,63,+6.109s,18
+2025,18 May,Emilia-Romagna,3,81,Oscar Piastri,McLaren,63,+12.956s,15
+2025,18 May,Emilia-Romagna,4,44,Lewis Hamilton,Ferrari,63,+14.356s,12
+2025,18 May,Emilia-Romagna,5,23,Alexander Albon,Williams,63,+17.945s,10
+2025,18 May,Emilia-Romagna,6,16,Charles Leclerc,Ferrari,63,+20.774s,8
+2025,18 May,Emilia-Romagna,7,63,George Russell,Mercedes,63,+22.034s,6
+2025,18 May,Emilia-Romagna,8,55,Carlos Sainz,Williams,63,+22.898s,4
+2025,18 May,Emilia-Romagna,9,6,Isack Hadjar,Racing Bulls,63,+23.586s,2
+2025,18 May,Emilia-Romagna,10,22,Yuki Tsunoda,Red Bull Racing,63,+26.446s,1
+2025,18 May,Emilia-Romagna,11,14,Fernando Alonso,Aston Martin,63,+27.250s,0
+2025,18 May,Emilia-Romagna,12,27,Nico Hulkenberg,Kick Sauber,63,+30.296s,0
+2025,18 May,Emilia-Romagna,13,10,Pierre Gasly,Alpine,63,+31.424s,0
+2025,18 May,Emilia-Romagna,14,30,Liam Lawson,Racing Bulls,63,+32.511s,0
+2025,18 May,Emilia-Romagna,15,18,Lance Stroll,Aston Martin,63,+32.993s,0
+2025,18 May,Emilia-Romagna,16,43,Franco Colapinto,Alpine,63,+33.411s,0
+2025,18 May,Emilia-Romagna,17,87,Oliver Bearman,Haas F1 Team,63,+33.808s,0
+2025,18 May,Emilia-Romagna,18,5,Gabriel Bortoleto,Kick Sauber,63,+38.572s,0
+2025,18 May,Emilia-Romagna,NC,12,Kimi Antonelli,Mercedes,44,DNF,0
+2025,18 May,Emilia-Romagna,NC,31,Esteban Ocon,Haas F1 Team,27,DNF,0
+2025,25 May,Monaco,1,4,Lando Norris,McLaren,78,1:40:33.843,25
+2025,25 May,Monaco,2,16,Charles Leclerc,Ferrari,78,+3.131s,18
+2025,25 May,Monaco,3,81,Oscar Piastri,McLaren,78,+3.658s,15
+2025,25 May,Monaco,4,1,Max Verstappen,Red Bull Racing,78,+20.572s,12
+2025,25 May,Monaco,5,44,Lewis Hamilton,Ferrari,78,+51.387s,10
+2025,25 May,Monaco,6,6,Isack Hadjar,Racing Bulls,77,+1,lap,8
+2025,25 May,Monaco,7,31,Esteban Ocon,Haas F1 Team,77,+1,lap,6
+2025,25 May,Monaco,8,30,Liam Lawson,Racing Bulls,77,+1,lap,4
+2025,25 May,Monaco,9,23,Alexander Albon,Williams,76,+2,laps,2
+2025,25 May,Monaco,10,55,Carlos Sainz,Williams,76,+2,laps,1
+2025,25 May,Monaco,11,63,George Russell,Mercedes,76,+2,laps,0
+2025,25 May,Monaco,12,87,Oliver Bearman,Haas F1 Team,76,+2,laps,0
+2025,25 May,Monaco,13,43,Franco Colapinto,Alpine,76,+2,laps,0
+2025,25 May,Monaco,14,5,Gabriel Bortoleto,Kick Sauber,76,+2,laps,0
+2025,25 May,Monaco,15,18,Lance Stroll,Aston Martin,76,+2,laps,0
+2025,25 May,Monaco,16,27,Nico Hulkenberg,Kick Sauber,76,+2,laps,0
+2025,25 May,Monaco,17,22,Yuki Tsunoda,Red Bull Racing,76,+2,laps,0
+2025,25 May,Monaco,18,12,Kimi Antonelli,Mercedes,75,+3,laps,0
+2025,25 May,Monaco,NC,14,Fernando Alonso,Aston Martin,36,DNF,0
+2025,25 May,Monaco,NC,10,Pierre Gasly,Alpine,7,DNF,0
+2025,01 Jun,Spain,1,81,Oscar Piastri,McLaren,66,1:32:57.375,25
+2025,01 Jun,Spain,2,4,Lando Norris,McLaren,66,+2.471s,18
+2025,01 Jun,Spain,3,16,Charles Leclerc,Ferrari,66,+10.455s,15
+2025,01 Jun,Spain,4,63,George Russell,Mercedes,66,+11.359s,12
+2025,01 Jun,Spain,5,27,Nico Hulkenberg,Kick Sauber,66,+13.648s,10
+2025,01 Jun,Spain,6,44,Lewis Hamilton,Ferrari,66,+15.508s,8
+2025,01 Jun,Spain,7,6,Isack Hadjar,Racing Bulls,66,+16.022s,6
+2025,01 Jun,Spain,8,10,Pierre Gasly,Alpine,66,+17.882s,4
+2025,01 Jun,Spain,9,14,Fernando Alonso,Aston Martin,66,+21.564s,2
+2025,01 Jun,Spain,10,1,Max Verstappen,Red Bull Racing,66,+21.826s,1
+2025,01 Jun,Spain,11,30,Liam Lawson,Racing Bulls,66,+25.532s,0
+2025,01 Jun,Spain,12,5,Gabriel Bortoleto,Kick Sauber,66,+25.996s,0
+2025,01 Jun,Spain,13,22,Yuki Tsunoda,Red Bull Racing,66,+28.822s,0
+2025,01 Jun,Spain,14,55,Carlos Sainz,Williams,66,+29.309s,0
+2025,01 Jun,Spain,15,43,Franco Colapinto,Alpine,66,+31.381s,0
+2025,01 Jun,Spain,16,31,Esteban Ocon,Haas F1 Team,66,+32.197s,0
+2025,01 Jun,Spain,17,87,Oliver Bearman,Haas F1 Team,66,+37.065s,0
+2025,01 Jun,Spain,NC,12,Kimi Antonelli,Mercedes,53,DNF,0
+2025,01 Jun,Spain,NC,23,Alexander Albon,Williams,27,DNF,0
+2025,15 Jun,Canada,1,63,George Russell,Mercedes,70,1:31:52.688,25
+2025,15 Jun,Canada,2,1,Max Verstappen,Red Bull Racing,70,+0.228s,18
+2025,15 Jun,Canada,3,12,Kimi Antonelli,Mercedes,70,+1.014s,15
+2025,15 Jun,Canada,4,81,Oscar Piastri,McLaren,70,+2.109s,12
+2025,15 Jun,Canada,5,16,Charles Leclerc,Ferrari,70,+3.442s,10
+2025,15 Jun,Canada,6,44,Lewis Hamilton,Ferrari,70,+10.713s,8
+2025,15 Jun,Canada,7,14,Fernando Alonso,Aston Martin,70,+10.972s,6
+2025,15 Jun,Canada,8,27,Nico Hulkenberg,Kick Sauber,70,+15.364s,4
+2025,15 Jun,Canada,9,31,Esteban Ocon,Haas F1 Team,69,+1,lap,2
+2025,15 Jun,Canada,10,55,Carlos Sainz,Williams,69,+1,lap,1
+2025,15 Jun,Canada,11,87,Oliver Bearman,Haas F1 Team,69,+1,lap,0
+2025,15 Jun,Canada,12,22,Yuki Tsunoda,Red Bull Racing,69,+1,lap,0
+2025,15 Jun,Canada,13,43,Franco Colapinto,Alpine,69,+1,lap,0
+2025,15 Jun,Canada,14,5,Gabriel Bortoleto,Kick Sauber,69,+1,lap,0
+2025,15 Jun,Canada,15,10,Pierre Gasly,Alpine,69,+1,lap,0
+2025,15 Jun,Canada,16,6,Isack Hadjar,Racing Bulls,69,+1,lap,0
+2025,15 Jun,Canada,17,18,Lance Stroll,Aston Martin,69,+1,lap,0
+2025,15 Jun,Canada,18,4,Lando Norris,McLaren,66,DNF,0
+2025,15 Jun,Canada,NC,30,Liam Lawson,Racing Bulls,53,DNF,0
+2025,15 Jun,Canada,NC,23,Alexander Albon,Williams,46,DNF,0
+2025,29 Jun,Austria,1,4,Lando Norris,McLaren,70,1:23:47.693,25
+2025,29 Jun,Austria,2,81,Oscar Piastri,McLaren,70,+2.695s,18
+2025,29 Jun,Austria,3,16,Charles Leclerc,Ferrari,70,+19.820s,15
+2025,29 Jun,Austria,4,44,Lewis Hamilton,Ferrari,70,+29.020s,12
+2025,29 Jun,Austria,5,63,George Russell,Mercedes,70,+62.396s,10
+2025,29 Jun,Austria,6,30,Liam Lawson,Racing Bulls,70,+67.754s,8
+2025,29 Jun,Austria,7,14,Fernando Alonso,Aston Martin,69,+1,lap,6
+2025,29 Jun,Austria,8,5,Gabriel Bortoleto,Kick Sauber,69,+1,lap,4
+2025,29 Jun,Austria,9,27,Nico Hulkenberg,Kick Sauber,69,+1,lap,2
+2025,29 Jun,Austria,10,31,Esteban Ocon,Haas F1 Team,69,+1,lap,1
+2025,29 Jun,Austria,11,87,Oliver Bearman,Haas F1 Team,69,+1,lap,0
+2025,29 Jun,Austria,12,6,Isack Hadjar,Racing Bulls,69,+1,lap,0
+2025,29 Jun,Austria,13,10,Pierre Gasly,Alpine,69,+1,lap,0
+2025,29 Jun,Austria,14,18,Lance Stroll,Aston Martin,69,+1,lap,0
+2025,29 Jun,Austria,15,43,Franco Colapinto,Alpine,69,+1,lap,0
+2025,29 Jun,Austria,16,22,Yuki Tsunoda,Red Bull Racing,68,+2,laps,0
+2025,29 Jun,Austria,NC,23,Alexander Albon,Williams,15,DNF,0
+2025,29 Jun,Austria,NC,1,Max Verstappen,Red Bull Racing,0,DNF,0
+2025,29 Jun,Austria,NC,12,Kimi Antonelli,Mercedes,0,DNF,0
+2025,29 Jun,Austria,NC,55,Carlos Sainz,Williams,0,DNS,0
+2025,06 Jul,Great Britain,1,4,Lando Norris,McLaren,52,1:37:15.735,25
+2025,06 Jul,Great Britain,2,81,Oscar Piastri,McLaren,52,+6.812s,18
+2025,06 Jul,Great Britain,3,27,Nico Hulkenberg,Kick Sauber,52,+34.742s,15
+2025,06 Jul,Great Britain,4,44,Lewis Hamilton,Ferrari,52,+39.812s,12
+2025,06 Jul,Great Britain,5,1,Max Verstappen,Red Bull Racing,52,+56.781s,10
+2025,06 Jul,Great Britain,6,10,Pierre Gasly,Alpine,52,+59.857s,8
+2025,06 Jul,Great Britain,7,18,Lance Stroll,Aston Martin,52,+60.603s,6
+2025,06 Jul,Great Britain,8,23,Alexander Albon,Williams,52,+64.135s,4
+2025,06 Jul,Great Britain,9,14,Fernando Alonso,Aston Martin,52,+65.858s,2
+2025,06 Jul,Great Britain,10,63,George Russell,Mercedes,52,+70.674s,1
+2025,06 Jul,Great Britain,11,87,Oliver Bearman,Haas F1 Team,52,+72.095s,0
+2025,06 Jul,Great Britain,12,55,Carlos Sainz,Williams,52,+76.592s,0
+2025,06 Jul,Great Britain,13,31,Esteban Ocon,Haas F1 Team,52,+77.301s,0
+2025,06 Jul,Great Britain,14,16,Charles Leclerc,Ferrari,52,+84.477s,0
+2025,06 Jul,Great Britain,15,22,Yuki Tsunoda,Red Bull Racing,51,+1,lap,0
+2025,06 Jul,Great Britain,NC,12,Kimi Antonelli,Mercedes,23,DNF,0
+2025,06 Jul,Great Britain,NC,6,Isack Hadjar,Racing Bulls,17,DNF,0
+2025,06 Jul,Great Britain,NC,5,Gabriel Bortoleto,Kick Sauber,3,DNF,0
+2025,06 Jul,Great Britain,NC,30,Liam Lawson,Racing Bulls,0,DNF,0
+2025,06 Jul,Great Britain,NC,43,Franco Colapinto,Alpine,0,DNS,0
+2025,27 Jul,Belgium,1,81,Oscar Piastri,McLaren,44,1:25:22.601,25
+2025,27 Jul,Belgium,2,4,Lando Norris,McLaren,44,+3.415s,18
+2025,27 Jul,Belgium,3,16,Charles Leclerc,Ferrari,44,+20.185s,15
+2025,27 Jul,Belgium,4,1,Max Verstappen,Red Bull Racing,44,+21.731s,12
+2025,27 Jul,Belgium,5,63,George Russell,Mercedes,44,+34.863s,10
+2025,27 Jul,Belgium,6,23,Alexander Albon,Williams,44,+39.926s,8
+2025,27 Jul,Belgium,7,44,Lewis Hamilton,Ferrari,44,+40.679s,6
+2025,27 Jul,Belgium,8,30,Liam Lawson,Racing Bulls,44,+52.033s,4
+2025,27 Jul,Belgium,9,5,Gabriel Bortoleto,Kick Sauber,44,+56.434s,2
+2025,27 Jul,Belgium,10,10,Pierre Gasly,Alpine,44,+72.714s,1
+2025,27 Jul,Belgium,11,87,Oliver Bearman,Haas F1 Team,44,+73.145s,0
+2025,27 Jul,Belgium,12,27,Nico Hulkenberg,Kick Sauber,44,+73.628s,0
+2025,27 Jul,Belgium,13,22,Yuki Tsunoda,Red Bull Racing,44,+75.395s,0
+2025,27 Jul,Belgium,14,18,Lance Stroll,Aston Martin,44,+79.831s,0
+2025,27 Jul,Belgium,15,31,Esteban Ocon,Haas F1 Team,44,+86.063s,0
+2025,27 Jul,Belgium,16,12,Kimi Antonelli,Mercedes,44,+86.721s,0
+2025,27 Jul,Belgium,17,14,Fernando Alonso,Aston Martin,44,+87.924s,0
+2025,27 Jul,Belgium,18,55,Carlos Sainz,Williams,44,+92.024s,0
+2025,27 Jul,Belgium,19,43,Franco Colapinto,Alpine,44,+95.250s,0
+2025,27 Jul,Belgium,20,6,Isack Hadjar,Racing Bulls,43,+1,lap,0
+2025,03 Aug,Hungary,1,4,Lando Norris,McLaren,70,1:35:21.231,25
+2025,03 Aug,Hungary,2,81,Oscar Piastri,McLaren,70,+0.698s,18
+2025,03 Aug,Hungary,3,63,George Russell,Mercedes,70,+21.916s,15
+2025,03 Aug,Hungary,4,16,Charles Leclerc,Ferrari,70,+42.560s,12
+2025,03 Aug,Hungary,5,14,Fernando Alonso,Aston Martin,70,+59.040s,10
+2025,03 Aug,Hungary,6,5,Gabriel Bortoleto,Kick Sauber,70,+66.169s,8
+2025,03 Aug,Hungary,7,18,Lance Stroll,Aston Martin,70,+68.174s,6
+2025,03 Aug,Hungary,8,30,Liam Lawson,Racing Bulls,70,+69.451s,4
+2025,03 Aug,Hungary,9,1,Max Verstappen,Red Bull Racing,70,+72.645s,2
+2025,03 Aug,Hungary,10,12,Kimi Antonelli,Mercedes,69,+1,lap,1
+2025,03 Aug,Hungary,11,6,Isack Hadjar,Racing Bulls,69,+1,lap,0
+2025,03 Aug,Hungary,12,44,Lewis Hamilton,Ferrari,69,+1,lap,0
+2025,03 Aug,Hungary,13,27,Nico Hulkenberg,Kick Sauber,69,+1,lap,0
+2025,03 Aug,Hungary,14,55,Carlos Sainz,Williams,69,+1,lap,0
+2025,03 Aug,Hungary,15,23,Alexander Albon,Williams,69,+1,lap,0
+2025,03 Aug,Hungary,16,31,Esteban Ocon,Haas F1 Team,69,+1,lap,0
+2025,03 Aug,Hungary,17,22,Yuki Tsunoda,Red Bull Racing,69,+1,lap,0
+2025,03 Aug,Hungary,18,43,Franco Colapinto,Alpine,69,+1,lap,0
+2025,03 Aug,Hungary,19,10,Pierre Gasly,Alpine,69,+1,lap,0
+2025,03 Aug,Hungary,NC,87,Oliver Bearman,Haas F1 Team,48,DNF,0
+2025,31 Aug,Netherlands,1,81,Oscar Piastri,McLaren,72,1:38:29.849,25
+2025,31 Aug,Netherlands,2,1,Max Verstappen,Red Bull Racing,72,+1.271s,18
+2025,31 Aug,Netherlands,3,6,Isack Hadjar,Racing Bulls,72,+3.233s,15
+2025,31 Aug,Netherlands,4,63,George Russell,Mercedes,72,+5.654s,12
+2025,31 Aug,Netherlands,5,23,Alexander Albon,Williams,72,+6.327s,10
+2025,31 Aug,Netherlands,6,87,Oliver Bearman,Haas F1 Team,72,+9.044s,8
+2025,31 Aug,Netherlands,7,18,Lance Stroll,Aston Martin,72,+9.497s,6
+2025,31 Aug,Netherlands,8,14,Fernando Alonso,Aston Martin,72,+11.709s,4
+2025,31 Aug,Netherlands,9,22,Yuki Tsunoda,Red Bull Racing,72,+13.597s,2
+2025,31 Aug,Netherlands,10,31,Esteban Ocon,Haas F1 Team,72,+14.063s,1
+2025,31 Aug,Netherlands,11,43,Franco Colapinto,Alpine,72,+14.511s,0
+2025,31 Aug,Netherlands,12,30,Liam Lawson,Racing Bulls,72,+17.063s,0
+2025,31 Aug,Netherlands,13,55,Carlos Sainz,Williams,72,+17.376s,0
+2025,31 Aug,Netherlands,14,27,Nico Hulkenberg,Kick Sauber,72,+19.725s,0
+2025,31 Aug,Netherlands,15,5,Gabriel Bortoleto,Kick Sauber,72,+21.565s,0
+2025,31 Aug,Netherlands,16,12,Kimi Antonelli,Mercedes,72,+22.029s,0
+2025,31 Aug,Netherlands,17,10,Pierre Gasly,Alpine,72,+23.629s,0
+2025,31 Aug,Netherlands,18,4,Lando Norris,McLaren,64,DNF,0
+2025,31 Aug,Netherlands,NC,16,Charles Leclerc,Ferrari,52,DNF,0
+2025,31 Aug,Netherlands,NC,44,Lewis Hamilton,Ferrari,22,DNF,0
+2025,07 Sep,Italy,1,1,Max Verstappen,Red Bull Racing,53,1:13:24.325,25
+2025,07 Sep,Italy,2,4,Lando Norris,McLaren,53,+19.207s,18
+2025,07 Sep,Italy,3,81,Oscar Piastri,McLaren,53,+21.351s,15
+2025,07 Sep,Italy,4,16,Charles Leclerc,Ferrari,53,+25.624s,12
+2025,07 Sep,Italy,5,63,George Russell,Mercedes,53,+32.881s,10
+2025,07 Sep,Italy,6,44,Lewis Hamilton,Ferrari,53,+37.449s,8
+2025,07 Sep,Italy,7,23,Alexander Albon,Williams,53,+50.537s,6
+2025,07 Sep,Italy,8,5,Gabriel Bortoleto,Kick Sauber,53,+58.484s,4
+2025,07 Sep,Italy,9,12,Kimi Antonelli,Mercedes,53,+59.762s,2
+2025,07 Sep,Italy,10,6,Isack Hadjar,Racing Bulls,53,+63.891s,1
+2025,07 Sep,Italy,11,55,Carlos Sainz,Williams,53,+64.469s,0
+2025,07 Sep,Italy,12,87,Oliver Bearman,Haas F1 Team,53,+79.288s,0
+2025,07 Sep,Italy,13,22,Yuki Tsunoda,Red Bull Racing,53,+80.701s,0
+2025,07 Sep,Italy,14,30,Liam Lawson,Racing Bulls,53,+82.351s,0
+2025,07 Sep,Italy,15,31,Esteban Ocon,Haas F1 Team,52,+1,lap,0
+2025,07 Sep,Italy,16,10,Pierre Gasly,Alpine,52,+1,lap,0
+2025,07 Sep,Italy,17,43,Franco Colapinto,Alpine,52,+1,lap,0
+2025,07 Sep,Italy,18,18,Lance Stroll,Aston Martin,52,+1,lap,0
+2025,07 Sep,Italy,NC,14,Fernando Alonso,Aston Martin,24,DNF,0
+2025,07 Sep,Italy,NC,27,Nico Hulkenberg,Kick Sauber,0,DNS,0
+2025,21 Sep,Azerbaijan,1,1,Max Verstappen,Red Bull Racing,51,1:33:26.408,25
+2025,21 Sep,Azerbaijan,2,63,George Russell,Mercedes,51,+14.609s,18
+2025,21 Sep,Azerbaijan,3,55,Carlos Sainz,Williams,51,+19.199s,15
+2025,21 Sep,Azerbaijan,4,12,Kimi Antonelli,Mercedes,51,+21.760s,12
+2025,21 Sep,Azerbaijan,5,30,Liam Lawson,Racing Bulls,51,+33.290s,10
+2025,21 Sep,Azerbaijan,6,22,Yuki Tsunoda,Red Bull Racing,51,+33.808s,8
+2025,21 Sep,Azerbaijan,7,4,Lando Norris,McLaren,51,+34.227s,6
+2025,21 Sep,Azerbaijan,8,44,Lewis Hamilton,Ferrari,51,+36.310s,4
+2025,21 Sep,Azerbaijan,9,16,Charles Leclerc,Ferrari,51,+36.774s,2
+2025,21 Sep,Azerbaijan,10,6,Isack Hadjar,Racing Bulls,51,+38.982s,1
+2025,21 Sep,Azerbaijan,11,5,Gabriel Bortoleto,Kick Sauber,51,+67.606s,0
+2025,21 Sep,Azerbaijan,12,87,Oliver Bearman,Haas F1 Team,51,+68.262s,0
+2025,21 Sep,Azerbaijan,13,23,Alexander Albon,Williams,51,+72.870s,0
+2025,21 Sep,Azerbaijan,14,31,Esteban Ocon,Haas F1 Team,51,+77.580s,0
+2025,21 Sep,Azerbaijan,15,14,Fernando Alonso,Aston Martin,51,+78.707s,0
+2025,21 Sep,Azerbaijan,16,27,Nico Hulkenberg,Kick Sauber,51,+80.237s,0
+2025,21 Sep,Azerbaijan,17,18,Lance Stroll,Aston Martin,51,+96.392s,0
+2025,21 Sep,Azerbaijan,18,10,Pierre Gasly,Alpine,50,+1,lap,0
+2025,21 Sep,Azerbaijan,19,43,Franco Colapinto,Alpine,50,+1,lap,0
+2025,21 Sep,Azerbaijan,NC,81,Oscar Piastri,McLaren,0,DNF,0
+2025,05 Oct,Singapore,1,63,George Russell,Mercedes,62,1:40:22.367,25
+2025,05 Oct,Singapore,2,1,Max Verstappen,Red Bull Racing,62,+5.430s,18
+2025,05 Oct,Singapore,3,4,Lando Norris,McLaren,62,+6.066s,15
+2025,05 Oct,Singapore,4,81,Oscar Piastri,McLaren,62,+8.146s,12
+2025,05 Oct,Singapore,5,12,Kimi Antonelli,Mercedes,62,+33.681s,10
+2025,05 Oct,Singapore,6,16,Charles Leclerc,Ferrari,62,+45.996s,8
+2025,05 Oct,Singapore,7,14,Fernando Alonso,Aston Martin,62,+80.667s,6
+2025,05 Oct,Singapore,8,44,Lewis Hamilton,Ferrari,62,+85.251s,4
+2025,05 Oct,Singapore,9,87,Oliver Bearman,Haas F1 Team,62,+93.527s,2
+2025,05 Oct,Singapore,10,55,Carlos Sainz,Williams,61,+1,lap,1
+2025,05 Oct,Singapore,11,6,Isack Hadjar,Racing Bulls,61,+1,lap,0
+2025,05 Oct,Singapore,12,22,Yuki Tsunoda,Red Bull Racing,61,+1,lap,0
+2025,05 Oct,Singapore,13,18,Lance Stroll,Aston Martin,61,+1,lap,0
+2025,05 Oct,Singapore,14,23,Alexander Albon,Williams,61,+1,lap,0
+2025,05 Oct,Singapore,15,30,Liam Lawson,Racing Bulls,61,+1,lap,0
+2025,05 Oct,Singapore,16,43,Franco Colapinto,Alpine,61,+1,lap,0
+2025,05 Oct,Singapore,17,5,Gabriel Bortoleto,Kick Sauber,61,+1,lap,0
+2025,05 Oct,Singapore,18,31,Esteban Ocon,Haas F1 Team,61,+1,lap,0
+2025,05 Oct,Singapore,19,10,Pierre Gasly,Alpine,61,+1,lap,0
+2025,05 Oct,Singapore,20,27,Nico Hulkenberg,Kick Sauber,61,+1,lap,0
+2024,02 Mar,Bahrain,1,1,Max Verstappen,Red Bull Racing Honda RBPT,57,1:31:44.742,26
+2024,02 Mar,Bahrain,2,11,Sergio Perez,Red Bull Racing Honda RBPT,57,+22.457s,18
+2024,02 Mar,Bahrain,3,55,Carlos Sainz,Ferrari,57,+25.110s,15
+2024,02 Mar,Bahrain,4,16,Charles Leclerc,Ferrari,57,+39.669s,12
+2024,02 Mar,Bahrain,5,63,George Russell,Mercedes,57,+46.788s,10
+2024,02 Mar,Bahrain,6,4,Lando Norris,McLaren Mercedes,57,+48.458s,8
+2024,02 Mar,Bahrain,7,44,Lewis Hamilton,Mercedes,57,+50.324s,6
+2024,02 Mar,Bahrain,8,81,Oscar Piastri,McLaren Mercedes,57,+56.082s,4
+2024,02 Mar,Bahrain,9,14,Fernando Alonso,Aston Martin Aramco Mercedes,57,+74.887s,2
+2024,02 Mar,Bahrain,10,18,Lance Stroll,Aston Martin Aramco Mercedes,57,+93.216s,1
+2024,02 Mar,Bahrain,11,24,Zhou Guanyu,Kick Sauber Ferrari,56,+1,lap,0
+2024,02 Mar,Bahrain,12,20,Kevin Magnussen,Haas Ferrari,56,+1,lap,0
+2024,02 Mar,Bahrain,13,3,Daniel Ricciardo,RB Honda RBPT,56,+1,lap,0
+2024,02 Mar,Bahrain,14,22,Yuki Tsunoda,RB Honda RBPT,56,+1,lap,0
+2024,02 Mar,Bahrain,15,23,Alexander Albon,Williams Mercedes,56,+1,lap,0
+2024,02 Mar,Bahrain,16,27,Nico Hulkenberg,Haas Ferrari,56,+1,lap,0
+2024,02 Mar,Bahrain,17,31,Esteban Ocon,Alpine Renault,56,+1,lap,0
+2024,02 Mar,Bahrain,18,10,Pierre Gasly,Alpine Renault,56,+1,lap,0
+2024,02 Mar,Bahrain,19,77,Valtteri Bottas,Kick Sauber Ferrari,56,+1,lap,0
+2024,02 Mar,Bahrain,20,2,Logan Sargeant,Williams Mercedes,55,+2,laps,0
+2024,09 Mar,Saudi Arabia,1,1,Max Verstappen,Red Bull Racing Honda RBPT,50,1:20:43.273,25
+2024,09 Mar,Saudi Arabia,2,11,Sergio Perez,Red Bull Racing Honda RBPT,50,+13.643s,18
+2024,09 Mar,Saudi Arabia,3,16,Charles Leclerc,Ferrari,50,+18.639s,16
+2024,09 Mar,Saudi Arabia,4,81,Oscar Piastri,McLaren Mercedes,50,+32.007s,12
+2024,09 Mar,Saudi Arabia,5,14,Fernando Alonso,Aston Martin Aramco Mercedes,50,+35.759s,10
+2024,09 Mar,Saudi Arabia,6,63,George Russell,Mercedes,50,+39.936s,8
+2024,09 Mar,Saudi Arabia,7,38,Oliver Bearman,Ferrari,50,+42.679s,6
+2024,09 Mar,Saudi Arabia,8,4,Lando Norris,McLaren Mercedes,50,+45.708s,4
+2024,09 Mar,Saudi Arabia,9,44,Lewis Hamilton,Mercedes,50,+47.391s,2
+2024,09 Mar,Saudi Arabia,10,27,Nico Hulkenberg,Haas Ferrari,50,+76.996s,1
+2024,09 Mar,Saudi Arabia,11,23,Alexander Albon,Williams Mercedes,50,+88.354s,0
+2024,09 Mar,Saudi Arabia,12,20,Kevin Magnussen,Haas Ferrari,50,+105.737s,0
+2024,09 Mar,Saudi Arabia,13,31,Esteban Ocon,Alpine Renault,49,+1,lap,0
+2024,09 Mar,Saudi Arabia,14,2,Logan Sargeant,Williams Mercedes,49,+1,lap,0
+2024,09 Mar,Saudi Arabia,15,22,Yuki Tsunoda,RB Honda RBPT,49,+1,lap,0
+2024,09 Mar,Saudi Arabia,16,3,Daniel Ricciardo,RB Honda RBPT,49,+1,lap,0
+2024,09 Mar,Saudi Arabia,17,77,Valtteri Bottas,Kick Sauber Ferrari,49,+1,lap,0
+2024,09 Mar,Saudi Arabia,18,24,Zhou Guanyu,Kick Sauber Ferrari,49,+1,lap,0
+2024,09 Mar,Saudi Arabia,NC,18,Lance Stroll,Aston Martin Aramco Mercedes,5,DNF,0
+2024,09 Mar,Saudi Arabia,NC,10,Pierre Gasly,Alpine Renault,1,DNF,0
+2024,24 Mar,Australia,1,55,Carlos Sainz,Ferrari,58,1:20:26.843,25
+2024,24 Mar,Australia,2,16,Charles Leclerc,Ferrari,58,+2.366s,19
+2024,24 Mar,Australia,3,4,Lando Norris,McLaren Mercedes,58,+5.904s,15
+2024,24 Mar,Australia,4,81,Oscar Piastri,McLaren Mercedes,58,+35.770s,12
+2024,24 Mar,Australia,5,11,Sergio Perez,Red Bull Racing Honda RBPT,58,+56.309s,10
+2024,24 Mar,Australia,6,18,Lance Stroll,Aston Martin Aramco Mercedes,58,+93.222s,8
+2024,24 Mar,Australia,7,22,Yuki Tsunoda,RB Honda RBPT,58,+95.601s,6
+2024,24 Mar,Australia,8,14,Fernando Alonso,Aston Martin Aramco Mercedes,58,+100.992s,4
+2024,24 Mar,Australia,9,27,Nico Hulkenberg,Haas Ferrari,58,+104.553s,2
+2024,24 Mar,Australia,10,20,Kevin Magnussen,Haas Ferrari,57,+1,lap,1
+2024,24 Mar,Australia,11,23,Alexander Albon,Williams Mercedes,57,+1,lap,0
+2024,24 Mar,Australia,12,3,Daniel Ricciardo,RB Honda RBPT,57,+1,lap,0
+2024,24 Mar,Australia,13,10,Pierre Gasly,Alpine Renault,57,+1,lap,0
+2024,24 Mar,Australia,14,77,Valtteri Bottas,Kick Sauber Ferrari,57,+1,lap,0
+2024,24 Mar,Australia,15,24,Zhou Guanyu,Kick Sauber Ferrari,57,+1,lap,0
+2024,24 Mar,Australia,16,31,Esteban Ocon,Alpine Renault,57,+1,lap,0
+2024,24 Mar,Australia,17,63,George Russell,Mercedes,56,DNF,0
+2024,24 Mar,Australia,NC,44,Lewis Hamilton,Mercedes,15,DNF,0
+2024,24 Mar,Australia,NC,1,Max Verstappen,Red Bull Racing Honda RBPT,3,DNF,0
+2024,07 Apr,Japan,1,1,Max Verstappen,Red Bull Racing Honda RBPT,53,1:54:23.566,26
+2024,07 Apr,Japan,2,11,Sergio Perez,Red Bull Racing Honda RBPT,53,+12.535s,18
+2024,07 Apr,Japan,3,55,Carlos Sainz,Ferrari,53,+20.866s,15
+2024,07 Apr,Japan,4,16,Charles Leclerc,Ferrari,53,+26.522s,12
+2024,07 Apr,Japan,5,4,Lando Norris,McLaren Mercedes,53,+29.700s,10
+2024,07 Apr,Japan,6,14,Fernando Alonso,Aston Martin Aramco Mercedes,53,+44.272s,8
+2024,07 Apr,Japan,7,63,George Russell,Mercedes,53,+45.951s,6
+2024,07 Apr,Japan,8,81,Oscar Piastri,McLaren Mercedes,53,+47.525s,4
+2024,07 Apr,Japan,9,44,Lewis Hamilton,Mercedes,53,+48.626s,2
+2024,07 Apr,Japan,10,22,Yuki Tsunoda,RB Honda RBPT,52,+1,lap,1
+2024,07 Apr,Japan,11,27,Nico Hulkenberg,Haas Ferrari,52,+1,lap,0
+2024,07 Apr,Japan,12,18,Lance Stroll,Aston Martin Aramco Mercedes,52,+1,lap,0
+2024,07 Apr,Japan,13,20,Kevin Magnussen,Haas Ferrari,52,+1,lap,0
+2024,07 Apr,Japan,14,77,Valtteri Bottas,Kick Sauber Ferrari,52,+1,lap,0
+2024,07 Apr,Japan,15,31,Esteban Ocon,Alpine Renault,52,+1,lap,0
+2024,07 Apr,Japan,16,10,Pierre Gasly,Alpine Renault,52,+1,lap,0
+2024,07 Apr,Japan,17,2,Logan Sargeant,Williams Mercedes,52,+1,lap,0
+2024,07 Apr,Japan,NC,24,Zhou Guanyu,Kick Sauber Ferrari,12,DNF,0
+2024,07 Apr,Japan,NC,3,Daniel Ricciardo,RB Honda RBPT,0,DNF,0
+2024,07 Apr,Japan,NC,23,Alexander Albon,Williams Mercedes,0,DNF,0
+2024,21 Apr,China,1,1,Max Verstappen,Red Bull Racing Honda RBPT,56,1:40:52.554,25
+2024,21 Apr,China,2,4,Lando Norris,McLaren Mercedes,56,+13.773s,18
+2024,21 Apr,China,3,11,Sergio Perez,Red Bull Racing Honda RBPT,56,+19.160s,15
+2024,21 Apr,China,4,16,Charles Leclerc,Ferrari,56,+23.623s,12
+2024,21 Apr,China,5,55,Carlos Sainz,Ferrari,56,+33.983s,10
+2024,21 Apr,China,6,63,George Russell,Mercedes,56,+38.724s,8
+2024,21 Apr,China,7,14,Fernando Alonso,Aston Martin Aramco Mercedes,56,+43.414s,7
+2024,21 Apr,China,8,81,Oscar Piastri,McLaren Mercedes,56,+56.198s,4
+2024,21 Apr,China,9,44,Lewis Hamilton,Mercedes,56,+57.986s,2
+2024,21 Apr,China,10,27,Nico Hulkenberg,Haas Ferrari,56,+60.476s,1
+2024,21 Apr,China,11,31,Esteban Ocon,Alpine Renault,56,+62.812s,0
+2024,21 Apr,China,12,23,Alexander Albon,Williams Mercedes,56,+65.506s,0
+2024,21 Apr,China,13,10,Pierre Gasly,Alpine Renault,56,+69.223s,0
+2024,21 Apr,China,14,24,Zhou Guanyu,Kick Sauber Ferrari,56,+71.689s,0
+2024,21 Apr,China,15,18,Lance Stroll,Aston Martin Aramco Mercedes,56,+82.786s,0
+2024,21 Apr,China,16,20,Kevin Magnussen,Haas Ferrari,56,+87.533s,0
+2024,21 Apr,China,17,2,Logan Sargeant,Williams Mercedes,56,+95.110s,0
+2024,21 Apr,China,NC,3,Daniel Ricciardo,RB Honda RBPT,33,DNF,0
+2024,21 Apr,China,NC,22,Yuki Tsunoda,RB Honda RBPT,26,DNF,0
+2024,21 Apr,China,NC,77,Valtteri Bottas,Kick Sauber Ferrari,19,DNF,0
+2024,05 May,Miami,1,4,Lando Norris,McLaren Mercedes,57,1:30:49.876,25
+2024,05 May,Miami,2,1,Max Verstappen,Red Bull Racing Honda RBPT,57,+7.612s,18
+2024,05 May,Miami,3,16,Charles Leclerc,Ferrari,57,+9.920s,15
+2024,05 May,Miami,4,11,Sergio Perez,Red Bull Racing Honda RBPT,57,+14.650s,12
+2024,05 May,Miami,5,55,Carlos Sainz,Ferrari,57,+16.407s,10
+2024,05 May,Miami,6,44,Lewis Hamilton,Mercedes,57,+16.585s,8
+2024,05 May,Miami,7,22,Yuki Tsunoda,RB Honda RBPT,57,+26.185s,6
+2024,05 May,Miami,8,63,George Russell,Mercedes,57,+34.789s,4
+2024,05 May,Miami,9,14,Fernando Alonso,Aston Martin Aramco Mercedes,57,+37.107s,2
+2024,05 May,Miami,10,31,Esteban Ocon,Alpine Renault,57,+39.746s,1
+2024,05 May,Miami,11,27,Nico Hulkenberg,Haas Ferrari,57,+40.789s,0
+2024,05 May,Miami,12,10,Pierre Gasly,Alpine Renault,57,+44.958s,0
+2024,05 May,Miami,13,81,Oscar Piastri,McLaren Mercedes,57,+49.756s,0
+2024,05 May,Miami,14,24,Zhou Guanyu,Kick Sauber Ferrari,57,+49.979s,0
+2024,05 May,Miami,15,3,Daniel Ricciardo,RB Honda RBPT,57,+50.956s,0
+2024,05 May,Miami,16,77,Valtteri Bottas,Kick Sauber Ferrari,57,+52.356s,0
+2024,05 May,Miami,17,18,Lance Stroll,Aston Martin Aramco Mercedes,57,+55.173s,0
+2024,05 May,Miami,18,23,Alexander Albon,Williams Mercedes,57,+76.091s,0
+2024,05 May,Miami,19,20,Kevin Magnussen,Haas Ferrari,57,+84.683s,0
+2024,05 May,Miami,NC,2,Logan Sargeant,Williams Mercedes,27,DNF,0
+2024,19 May,Emilia-Romagna,1,1,Max Verstappen,Red Bull Racing Honda RBPT,63,1:25:25.252,25
+2024,19 May,Emilia-Romagna,2,4,Lando Norris,McLaren Mercedes,63,+0.725s,18
+2024,19 May,Emilia-Romagna,3,16,Charles Leclerc,Ferrari,63,+7.916s,15
+2024,19 May,Emilia-Romagna,4,81,Oscar Piastri,McLaren Mercedes,63,+14.132s,12
+2024,19 May,Emilia-Romagna,5,55,Carlos Sainz,Ferrari,63,+22.325s,10
+2024,19 May,Emilia-Romagna,6,44,Lewis Hamilton,Mercedes,63,+35.104s,8
+2024,19 May,Emilia-Romagna,7,63,George Russell,Mercedes,63,+47.154s,7
+2024,19 May,Emilia-Romagna,8,11,Sergio Perez,Red Bull Racing Honda RBPT,63,+54.776s,4
+2024,19 May,Emilia-Romagna,9,18,Lance Stroll,Aston Martin Aramco Mercedes,63,+79.556s,2
+2024,19 May,Emilia-Romagna,10,22,Yuki Tsunoda,RB Honda RBPT,62,+1,lap,1
+2024,19 May,Emilia-Romagna,11,27,Nico Hulkenberg,Haas Ferrari,62,+1,lap,0
+2024,19 May,Emilia-Romagna,12,20,Kevin Magnussen,Haas Ferrari,62,+1,lap,0
+2024,19 May,Emilia-Romagna,13,3,Daniel Ricciardo,RB Honda RBPT,62,+1,lap,0
+2024,19 May,Emilia-Romagna,14,31,Esteban Ocon,Alpine Renault,62,+1,lap,0
+2024,19 May,Emilia-Romagna,15,24,Zhou Guanyu,Kick Sauber Ferrari,62,+1,lap,0
+2024,19 May,Emilia-Romagna,16,10,Pierre Gasly,Alpine Renault,62,+1,lap,0
+2024,19 May,Emilia-Romagna,17,2,Logan Sargeant,Williams Mercedes,62,+1,lap,0
+2024,19 May,Emilia-Romagna,18,77,Valtteri Bottas,Kick Sauber Ferrari,62,+1,lap,0
+2024,19 May,Emilia-Romagna,19,14,Fernando Alonso,Aston Martin Aramco Mercedes,62,+1,lap,0
+2024,19 May,Emilia-Romagna,NC,23,Alexander Albon,Williams Mercedes,51,DNF,0
+2024,26 May,Monaco,1,16,Charles Leclerc,Ferrari,78,2:23:15.554,25
+2024,26 May,Monaco,2,81,Oscar Piastri,McLaren Mercedes,78,+7.152s,18
+2024,26 May,Monaco,3,55,Carlos Sainz,Ferrari,78,+7.585s,15
+2024,26 May,Monaco,4,4,Lando Norris,McLaren Mercedes,78,+8.650s,12
+2024,26 May,Monaco,5,63,George Russell,Mercedes,78,+13.309s,10
+2024,26 May,Monaco,6,1,Max Verstappen,Red Bull Racing Honda RBPT,78,+13.853s,8
+2024,26 May,Monaco,7,44,Lewis Hamilton,Mercedes,78,+14.908s,7
+2024,26 May,Monaco,8,22,Yuki Tsunoda,RB Honda RBPT,77,+1,lap,4
+2024,26 May,Monaco,9,23,Alexander Albon,Williams Mercedes,77,+1,lap,2
+2024,26 May,Monaco,10,10,Pierre Gasly,Alpine Renault,77,+1,lap,1
+2024,26 May,Monaco,11,14,Fernando Alonso,Aston Martin Aramco Mercedes,76,+2,laps,0
+2024,26 May,Monaco,12,3,Daniel Ricciardo,RB Honda RBPT,76,+2,laps,0
+2024,26 May,Monaco,13,77,Valtteri Bottas,Kick Sauber Ferrari,76,+2,laps,0
+2024,26 May,Monaco,14,18,Lance Stroll,Aston Martin Aramco Mercedes,76,+2,laps,0
+2024,26 May,Monaco,15,2,Logan Sargeant,Williams Mercedes,76,+2,laps,0
+2024,26 May,Monaco,16,24,Zhou Guanyu,Kick Sauber Ferrari,76,+2,laps,0
+2024,26 May,Monaco,NC,31,Esteban Ocon,Alpine Renault,0,DNF,0
+2024,26 May,Monaco,NC,11,Sergio Perez,Red Bull Racing Honda RBPT,0,DNF,0
+2024,26 May,Monaco,NC,27,Nico Hulkenberg,Haas Ferrari,0,DNF,0
+2024,26 May,Monaco,NC,20,Kevin Magnussen,Haas Ferrari,0,DNF,0
+2024,09 Jun,Canada,1,1,Max Verstappen,Red Bull Racing Honda RBPT,70,1:45:47.927,25
+2024,09 Jun,Canada,2,4,Lando Norris,McLaren Mercedes,70,+3.879s,18
+2024,09 Jun,Canada,3,63,George Russell,Mercedes,70,+4.317s,15
+2024,09 Jun,Canada,4,44,Lewis Hamilton,Mercedes,70,+4.915s,13
+2024,09 Jun,Canada,5,81,Oscar Piastri,McLaren Mercedes,70,+10.199s,10
+2024,09 Jun,Canada,6,14,Fernando Alonso,Aston Martin Aramco Mercedes,70,+17.510s,8
+2024,09 Jun,Canada,7,18,Lance Stroll,Aston Martin Aramco Mercedes,70,+23.625s,6
+2024,09 Jun,Canada,8,3,Daniel Ricciardo,RB Honda RBPT,70,+28.672s,4
+2024,09 Jun,Canada,9,10,Pierre Gasly,Alpine Renault,70,+30.021s,2
+2024,09 Jun,Canada,10,31,Esteban Ocon,Alpine Renault,70,+30.313s,1
+2024,09 Jun,Canada,11,27,Nico Hulkenberg,Haas Ferrari,70,+30.824s,0
+2024,09 Jun,Canada,12,20,Kevin Magnussen,Haas Ferrari,70,+31.253s,0
+2024,09 Jun,Canada,13,77,Valtteri Bottas,Kick Sauber Ferrari,70,+40.487s,0
+2024,09 Jun,Canada,14,22,Yuki Tsunoda,RB Honda RBPT,70,+52.694s,0
+2024,09 Jun,Canada,15,24,Zhou Guanyu,Kick Sauber Ferrari,69,+1,lap,0
+2024,09 Jun,Canada,NC,55,Carlos Sainz,Ferrari,52,DNF,0
+2024,09 Jun,Canada,NC,23,Alexander Albon,Williams Mercedes,52,DNF,0
+2024,09 Jun,Canada,NC,11,Sergio Perez,Red Bull Racing Honda RBPT,51,DNF,0
+2024,09 Jun,Canada,NC,16,Charles Leclerc,Ferrari,40,DNF,0
+2024,09 Jun,Canada,NC,2,Logan Sargeant,Williams Mercedes,23,DNF,0
+2024,23 Jun,Spain,1,1,Max Verstappen,Red Bull Racing Honda RBPT,66,1:28:20.227,25
+2024,23 Jun,Spain,2,4,Lando Norris,McLaren Mercedes,66,+2.219s,19
+2024,23 Jun,Spain,3,44,Lewis Hamilton,Mercedes,66,+17.790s,15
+2024,23 Jun,Spain,4,63,George Russell,Mercedes,66,+22.320s,12
+2024,23 Jun,Spain,5,16,Charles Leclerc,Ferrari,66,+22.709s,10
+2024,23 Jun,Spain,6,55,Carlos Sainz,Ferrari,66,+31.028s,8
+2024,23 Jun,Spain,7,81,Oscar Piastri,McLaren Mercedes,66,+33.760s,6
+2024,23 Jun,Spain,8,11,Sergio Perez,Red Bull Racing Honda RBPT,66,+59.524s,4
+2024,23 Jun,Spain,9,10,Pierre Gasly,Alpine Renault,66,+62.025s,2
+2024,23 Jun,Spain,10,31,Esteban Ocon,Alpine Renault,66,+71.889s,1
+2024,23 Jun,Spain,11,27,Nico Hulkenberg,Haas Ferrari,66,+79.215s,0
+2024,23 Jun,Spain,12,14,Fernando Alonso,Aston Martin Aramco Mercedes,65,+1,lap,0
+2024,23 Jun,Spain,13,24,Zhou Guanyu,Kick Sauber Ferrari,65,+1,lap,0
+2024,23 Jun,Spain,14,18,Lance Stroll,Aston Martin Aramco Mercedes,65,+1,lap,0
+2024,23 Jun,Spain,15,3,Daniel Ricciardo,RB Honda RBPT,65,+1,lap,0
+2024,23 Jun,Spain,16,77,Valtteri Bottas,Kick Sauber Ferrari,65,+1,lap,0
+2024,23 Jun,Spain,17,20,Kevin Magnussen,Haas Ferrari,65,+1,lap,0
+2024,23 Jun,Spain,18,23,Alexander Albon,Williams Mercedes,65,+1,lap,0
+2024,23 Jun,Spain,19,22,Yuki Tsunoda,RB Honda RBPT,65,+1,lap,0
+2024,23 Jun,Spain,20,2,Logan Sargeant,Williams Mercedes,64,+2,laps,0
+2024,30 Jun,Austria,1,63,George Russell,Mercedes,71,1:24:22.798,25
+2024,30 Jun,Austria,2,81,Oscar Piastri,McLaren Mercedes,71,+1.906s,18
+2024,30 Jun,Austria,3,55,Carlos Sainz,Ferrari,71,+4.533s,15
+2024,30 Jun,Austria,4,44,Lewis Hamilton,Mercedes,71,+23.142s,12
+2024,30 Jun,Austria,5,1,Max Verstappen,Red Bull Racing Honda RBPT,71,+37.253s,10
+2024,30 Jun,Austria,6,27,Nico Hulkenberg,Haas Ferrari,71,+54.088s,8
+2024,30 Jun,Austria,7,11,Sergio Perez,Red Bull Racing Honda RBPT,71,+54.672s,6
+2024,30 Jun,Austria,8,20,Kevin Magnussen,Haas Ferrari,71,+60.355s,4
+2024,30 Jun,Austria,9,3,Daniel Ricciardo,RB Honda RBPT,71,+61.169s,2
+2024,30 Jun,Austria,10,10,Pierre Gasly,Alpine Renault,71,+61.766s,1
+2024,30 Jun,Austria,11,16,Charles Leclerc,Ferrari,71,+67.056s,0
+2024,30 Jun,Austria,12,31,Esteban Ocon,Alpine Renault,71,+68.325s,0
+2024,30 Jun,Austria,13,18,Lance Stroll,Aston Martin Aramco Mercedes,70,+1,lap,0
+2024,30 Jun,Austria,14,22,Yuki Tsunoda,RB Honda RBPT,70,+1,lap,0
+2024,30 Jun,Austria,15,23,Alexander Albon,Williams Mercedes,70,+1,lap,0
+2024,30 Jun,Austria,16,77,Valtteri Bottas,Kick Sauber Ferrari,70,+1,lap,0
+2024,30 Jun,Austria,17,24,Zhou Guanyu,Kick Sauber Ferrari,70,+1,lap,0
+2024,30 Jun,Austria,18,14,Fernando Alonso,Aston Martin Aramco Mercedes,70,+1,lap,0
+2024,30 Jun,Austria,19,2,Logan Sargeant,Williams Mercedes,69,+2,laps,0
+2024,30 Jun,Austria,20,4,Lando Norris,McLaren Mercedes,64,+7,laps,0
+2024,07 Jul,Great Britain,1,44,Lewis Hamilton,Mercedes,52,1:22:27.059,25
+2024,07 Jul,Great Britain,2,1,Max Verstappen,Red Bull Racing Honda RBPT,52,+1.465s,18
+2024,07 Jul,Great Britain,3,4,Lando Norris,McLaren Mercedes,52,+7.547s,15
+2024,07 Jul,Great Britain,4,81,Oscar Piastri,McLaren Mercedes,52,+12.429s,12
+2024,07 Jul,Great Britain,5,55,Carlos Sainz,Ferrari,52,+47.318s,11
+2024,07 Jul,Great Britain,6,27,Nico Hulkenberg,Haas Ferrari,52,+55.722s,8
+2024,07 Jul,Great Britain,7,18,Lance Stroll,Aston Martin Aramco Mercedes,52,+56.569s,6
+2024,07 Jul,Great Britain,8,14,Fernando Alonso,Aston Martin Aramco Mercedes,52,+63.577s,4
+2024,07 Jul,Great Britain,9,23,Alexander Albon,Williams Mercedes,52,+68.387s,2
+2024,07 Jul,Great Britain,10,22,Yuki Tsunoda,RB Honda RBPT,52,+79.303s,1
+2024,07 Jul,Great Britain,11,2,Logan Sargeant,Williams Mercedes,52,+88.960s,0
+2024,07 Jul,Great Britain,12,20,Kevin Magnussen,Haas Ferrari,52,+90.153s,0
+2024,07 Jul,Great Britain,13,3,Daniel Ricciardo,RB Honda RBPT,51,+1,lap,0
+2024,07 Jul,Great Britain,14,16,Charles Leclerc,Ferrari,51,+1,lap,0
+2024,07 Jul,Great Britain,15,77,Valtteri Bottas,Kick Sauber Ferrari,51,+1,lap,0
+2024,07 Jul,Great Britain,16,31,Esteban Ocon,Alpine Renault,50,+2,laps,0
+2024,07 Jul,Great Britain,17,11,Sergio Perez,Red Bull Racing Honda RBPT,50,+2,laps,0
+2024,07 Jul,Great Britain,18,24,Zhou Guanyu,Kick Sauber Ferrari,50,+2,laps,0
+2024,07 Jul,Great Britain,NC,63,George Russell,Mercedes,33,DNF,0
+2024,07 Jul,Great Britain,NC,10,Pierre Gasly,Alpine Renault,0,DNS,0
+2024,21 Jul,Hungary,1,81,Oscar Piastri,McLaren Mercedes,70,1:38:01.989,25
+2024,21 Jul,Hungary,2,4,Lando Norris,McLaren Mercedes,70,+2.141s,18
+2024,21 Jul,Hungary,3,44,Lewis Hamilton,Mercedes,70,+14.880s,15
+2024,21 Jul,Hungary,4,16,Charles Leclerc,Ferrari,70,+19.686s,12
+2024,21 Jul,Hungary,5,1,Max Verstappen,Red Bull Racing Honda RBPT,70,+21.349s,10
+2024,21 Jul,Hungary,6,55,Carlos Sainz,Ferrari,70,+23.073s,8
+2024,21 Jul,Hungary,7,11,Sergio Perez,Red Bull Racing Honda RBPT,70,+39.792s,6
+2024,21 Jul,Hungary,8,63,George Russell,Mercedes,70,+42.368s,5
+2024,21 Jul,Hungary,9,22,Yuki Tsunoda,RB Honda RBPT,70,+77.259s,2
+2024,21 Jul,Hungary,10,18,Lance Stroll,Aston Martin Aramco Mercedes,70,+77.976s,1
+2024,21 Jul,Hungary,11,14,Fernando Alonso,Aston Martin Aramco Mercedes,70,+82.460s,0
+2024,21 Jul,Hungary,12,3,Daniel Ricciardo,RB Honda RBPT,69,+1,lap,0
+2024,21 Jul,Hungary,13,27,Nico Hulkenberg,Haas Ferrari,69,+1,lap,0
+2024,21 Jul,Hungary,14,23,Alexander Albon,Williams Mercedes,69,+1,lap,0
+2024,21 Jul,Hungary,15,20,Kevin Magnussen,Haas Ferrari,69,+1,lap,0
+2024,21 Jul,Hungary,16,77,Valtteri Bottas,Kick Sauber Ferrari,69,+1,lap,0
+2024,21 Jul,Hungary,17,2,Logan Sargeant,Williams Mercedes,69,+1,lap,0
+2024,21 Jul,Hungary,18,31,Esteban Ocon,Alpine Renault,69,+1,lap,0
+2024,21 Jul,Hungary,19,24,Zhou Guanyu,Kick Sauber Ferrari,69,+1,lap,0
+2024,21 Jul,Hungary,NC,10,Pierre Gasly,Alpine Renault,33,DNF,0
+2024,28 Jul,Belgium,DQ,63,George Russell,Mercedes,44,1:19:57.040,0
+2024,28 Jul,Belgium,1,44,Lewis Hamilton,Mercedes,44,+0.526s,25
+2024,28 Jul,Belgium,2,81,Oscar Piastri,McLaren Mercedes,44,+1.173s,18
+2024,28 Jul,Belgium,3,16,Charles Leclerc,Ferrari,44,+8.549s,15
+2024,28 Jul,Belgium,4,1,Max Verstappen,Red Bull Racing Honda RBPT,44,+9.226s,12
+2024,28 Jul,Belgium,5,4,Lando Norris,McLaren Mercedes,44,+9.850s,10
+2024,28 Jul,Belgium,6,55,Carlos Sainz,Ferrari,44,+19.795s,8
+2024,28 Jul,Belgium,7,11,Sergio Perez,Red Bull Racing Honda RBPT,44,+43.195s,7
+2024,28 Jul,Belgium,8,14,Fernando Alonso,Aston Martin Aramco Mercedes,44,+49.963s,4
+2024,28 Jul,Belgium,9,31,Esteban Ocon,Alpine Renault,44,+52.552s,2
+2024,28 Jul,Belgium,10,3,Daniel Ricciardo,RB Honda RBPT,44,+54.926s,1
+2024,28 Jul,Belgium,11,18,Lance Stroll,Aston Martin Aramco Mercedes,44,+63.011s,0
+2024,28 Jul,Belgium,12,23,Alexander Albon,Williams Mercedes,44,+63.651s,0
+2024,28 Jul,Belgium,13,10,Pierre Gasly,Alpine Renault,44,+64.365s,0
+2024,28 Jul,Belgium,14,20,Kevin Magnussen,Haas Ferrari,44,+66.631s,0
+2024,28 Jul,Belgium,15,77,Valtteri Bottas,Kick Sauber Ferrari,44,+70.638s,0
+2024,28 Jul,Belgium,16,22,Yuki Tsunoda,RB Honda RBPT,44,+76.737s,0
+2024,28 Jul,Belgium,17,2,Logan Sargeant,Williams Mercedes,44,+86.057s,0
+2024,28 Jul,Belgium,18,27,Nico Hulkenberg,Haas Ferrari,44,+88.833s,0
+2024,28 Jul,Belgium,NC,24,Zhou Guanyu,Kick Sauber Ferrari,5,DNF,0
+2024,25 Aug,Netherlands,1,4,Lando Norris,McLaren Mercedes,72,1:30:45.519,26
+2024,25 Aug,Netherlands,2,1,Max Verstappen,Red Bull Racing Honda RBPT,72,+22.896s,18
+2024,25 Aug,Netherlands,3,16,Charles Leclerc,Ferrari,72,+25.439s,15
+2024,25 Aug,Netherlands,4,81,Oscar Piastri,McLaren Mercedes,72,+27.337s,12
+2024,25 Aug,Netherlands,5,55,Carlos Sainz,Ferrari,72,+32.137s,10
+2024,25 Aug,Netherlands,6,11,Sergio Perez,Red Bull Racing Honda RBPT,72,+39.542s,8
+2024,25 Aug,Netherlands,7,63,George Russell,Mercedes,72,+44.617s,6
+2024,25 Aug,Netherlands,8,44,Lewis Hamilton,Mercedes,72,+49.599s,4
+2024,25 Aug,Netherlands,9,10,Pierre Gasly,Alpine Renault,71,+1,lap,2
+2024,25 Aug,Netherlands,10,14,Fernando Alonso,Aston Martin Aramco Mercedes,71,+1,lap,1
+2024,25 Aug,Netherlands,11,27,Nico Hulkenberg,Haas Ferrari,71,+1,lap,0
+2024,25 Aug,Netherlands,12,3,Daniel Ricciardo,RB Honda RBPT,71,+1,lap,0
+2024,25 Aug,Netherlands,13,18,Lance Stroll,Aston Martin Aramco Mercedes,71,+1,lap,0
+2024,25 Aug,Netherlands,14,23,Alexander Albon,Williams Mercedes,71,+1,lap,0
+2024,25 Aug,Netherlands,15,31,Esteban Ocon,Alpine Renault,71,+1,lap,0
+2024,25 Aug,Netherlands,16,2,Logan Sargeant,Williams Mercedes,71,+1,lap,0
+2024,25 Aug,Netherlands,17,22,Yuki Tsunoda,RB Honda RBPT,71,+1,lap,0
+2024,25 Aug,Netherlands,18,20,Kevin Magnussen,Haas Ferrari,71,+1,lap,0
+2024,25 Aug,Netherlands,19,77,Valtteri Bottas,Kick Sauber Ferrari,70,+2,laps,0
+2024,25 Aug,Netherlands,20,24,Zhou Guanyu,Kick Sauber Ferrari,70,+2,laps,0
+2024,01 Sep,Italy,1,16,Charles Leclerc,Ferrari,53,1:14:40.727,25
+2024,01 Sep,Italy,2,81,Oscar Piastri,McLaren Mercedes,53,+2.664s,18
+2024,01 Sep,Italy,3,4,Lando Norris,McLaren Mercedes,53,+6.153s,16
+2024,01 Sep,Italy,4,55,Carlos Sainz,Ferrari,53,+15.621s,12
+2024,01 Sep,Italy,5,44,Lewis Hamilton,Mercedes,53,+22.820s,10
+2024,01 Sep,Italy,6,1,Max Verstappen,Red Bull Racing Honda RBPT,53,+37.932s,8
+2024,01 Sep,Italy,7,63,George Russell,Mercedes,53,+39.715s,6
+2024,01 Sep,Italy,8,11,Sergio Perez,Red Bull Racing Honda RBPT,53,+54.148s,4
+2024,01 Sep,Italy,9,23,Alexander Albon,Williams Mercedes,53,+67.456s,2
+2024,01 Sep,Italy,10,20,Kevin Magnussen,Haas Ferrari,53,+68.302s,1
+2024,01 Sep,Italy,11,14,Fernando Alonso,Aston Martin Aramco Mercedes,53,+68.495s,0
+2024,01 Sep,Italy,12,43,Franco Colapinto,Williams Mercedes,53,+81.308s,0
+2024,01 Sep,Italy,13,3,Daniel Ricciardo,RB Honda RBPT,53,+93.452s,0
+2024,01 Sep,Italy,14,31,Esteban Ocon,Alpine Renault,52,+1,lap,0
+2024,01 Sep,Italy,15,10,Pierre Gasly,Alpine Renault,52,+1,lap,0
+2024,01 Sep,Italy,16,77,Valtteri Bottas,Kick Sauber Ferrari,52,+1,lap,0
+2024,01 Sep,Italy,17,27,Nico Hulkenberg,Haas Ferrari,52,+1,lap,0
+2024,01 Sep,Italy,18,24,Zhou Guanyu,Kick Sauber Ferrari,52,+1,lap,0
+2024,01 Sep,Italy,19,18,Lance Stroll,Aston Martin Aramco Mercedes,52,+1,lap,0
+2024,01 Sep,Italy,NC,22,Yuki Tsunoda,RB Honda RBPT,7,DNF,0
+2024,15 Sep,Azerbaijan,1,81,Oscar Piastri,McLaren Mercedes,51,1:32:58.007,25
+2024,15 Sep,Azerbaijan,2,16,Charles Leclerc,Ferrari,51,+10.910s,18
+2024,15 Sep,Azerbaijan,3,63,George Russell,Mercedes,51,+31.328s,15
+2024,15 Sep,Azerbaijan,4,4,Lando Norris,McLaren Mercedes,51,+36.143s,13
+2024,15 Sep,Azerbaijan,5,1,Max Verstappen,Red Bull Racing Honda RBPT,51,+77.098s,10
+2024,15 Sep,Azerbaijan,6,14,Fernando Alonso,Aston Martin Aramco Mercedes,51,+85.468s,8
+2024,15 Sep,Azerbaijan,7,23,Alexander Albon,Williams Mercedes,51,+87.396s,6
+2024,15 Sep,Azerbaijan,8,43,Franco Colapinto,Williams Mercedes,51,+89.541s,4
+2024,15 Sep,Azerbaijan,9,44,Lewis Hamilton,Mercedes,51,+92.401s,2
+2024,15 Sep,Azerbaijan,10,50,Oliver Bearman,Haas Ferrari,51,+93.127s,1
+2024,15 Sep,Azerbaijan,11,27,Nico Hulkenberg,Haas Ferrari,51,+93.465s,0
+2024,15 Sep,Azerbaijan,12,10,Pierre Gasly,Alpine Renault,51,+117.189s,0
+2024,15 Sep,Azerbaijan,13,3,Daniel Ricciardo,RB Honda RBPT,51,+146.907s,0
+2024,15 Sep,Azerbaijan,14,24,Zhou Guanyu,Kick Sauber Ferrari,51,+148.841s,0
+2024,15 Sep,Azerbaijan,15,31,Esteban Ocon,Alpine Renault,50,+1,lap,0
+2024,15 Sep,Azerbaijan,16,77,Valtteri Bottas,Kick Sauber Ferrari,50,+1,lap,0
+2024,15 Sep,Azerbaijan,17,11,Sergio Perez,Red Bull Racing Honda RBPT,49,DNF,0
+2024,15 Sep,Azerbaijan,18,55,Carlos Sainz,Ferrari,49,DNF,0
+2024,15 Sep,Azerbaijan,19,18,Lance Stroll,Aston Martin Aramco Mercedes,45,DNF,0
+2024,15 Sep,Azerbaijan,NC,22,Yuki Tsunoda,RB Honda RBPT,14,DNF,0
+2024,22 Sep,Singapore,1,4,Lando Norris,McLaren Mercedes,62,1:40:52.571,25
+2024,22 Sep,Singapore,2,1,Max Verstappen,Red Bull Racing Honda RBPT,62,+20.945s,18
+2024,22 Sep,Singapore,3,81,Oscar Piastri,McLaren Mercedes,62,+41.823s,15
+2024,22 Sep,Singapore,4,63,George Russell,Mercedes,62,+61.040s,12
+2024,22 Sep,Singapore,5,16,Charles Leclerc,Ferrari,62,+62.430s,10
+2024,22 Sep,Singapore,6,44,Lewis Hamilton,Mercedes,62,+85.248s,8
+2024,22 Sep,Singapore,7,55,Carlos Sainz,Ferrari,62,+96.039s,6
+2024,22 Sep,Singapore,8,14,Fernando Alonso,Aston Martin Aramco Mercedes,61,+1,lap,4
+2024,22 Sep,Singapore,9,27,Nico Hulkenberg,Haas Ferrari,61,+1,lap,2
+2024,22 Sep,Singapore,10,11,Sergio Perez,Red Bull Racing Honda RBPT,61,+1,lap,1
+2024,22 Sep,Singapore,11,43,Franco Colapinto,Williams Mercedes,61,+1,lap,0
+2024,22 Sep,Singapore,12,22,Yuki Tsunoda,RB Honda RBPT,61,+1,lap,0
+2024,22 Sep,Singapore,13,31,Esteban Ocon,Alpine Renault,61,+1,lap,0
+2024,22 Sep,Singapore,14,18,Lance Stroll,Aston Martin Aramco Mercedes,61,+1,lap,0
+2024,22 Sep,Singapore,15,24,Zhou Guanyu,Kick Sauber Ferrari,61,+1,lap,0
+2024,22 Sep,Singapore,16,77,Valtteri Bottas,Kick Sauber Ferrari,61,+1,lap,0
+2024,22 Sep,Singapore,17,10,Pierre Gasly,Alpine Renault,61,+1,lap,0
+2024,22 Sep,Singapore,18,3,Daniel Ricciardo,RB Honda RBPT,61,+1,lap,0
+2024,22 Sep,Singapore,19,20,Kevin Magnussen,Haas Ferrari,57,DNF,0
+2024,22 Sep,Singapore,NC,23,Alexander Albon,Williams Mercedes,15,DNF,0
+2024,20 Oct,United States,1,16,Charles Leclerc,Ferrari,56,1:35:09.639,25
+2024,20 Oct,United States,2,55,Carlos Sainz,Ferrari,56,+8.562s,18
+2024,20 Oct,United States,3,1,Max Verstappen,Red Bull Racing Honda RBPT,56,+19.412s,15
+2024,20 Oct,United States,4,4,Lando Norris,McLaren Mercedes,56,+20.354s,12
+2024,20 Oct,United States,5,81,Oscar Piastri,McLaren Mercedes,56,+21.921s,10
+2024,20 Oct,United States,6,63,George Russell,Mercedes,56,+56.295s,8
+2024,20 Oct,United States,7,11,Sergio Perez,Red Bull Racing Honda RBPT,56,+59.072s,6
+2024,20 Oct,United States,8,27,Nico Hulkenberg,Haas Ferrari,56,+62.957s,4
+2024,20 Oct,United States,9,30,Liam Lawson,RB Honda RBPT,56,+70.563s,2
+2024,20 Oct,United States,10,43,Franco Colapinto,Williams Mercedes,56,+71.979s,1
+2024,20 Oct,United States,11,20,Kevin Magnussen,Haas Ferrari,56,+79.782s,0
+2024,20 Oct,United States,12,10,Pierre Gasly,Alpine Renault,56,+90.558s,0
+2024,20 Oct,United States,13,14,Fernando Alonso,Aston Martin Aramco Mercedes,55,+1,lap,0
+2024,20 Oct,United States,14,22,Yuki Tsunoda,RB Honda RBPT,55,+1,lap,0
+2024,20 Oct,United States,15,18,Lance Stroll,Aston Martin Aramco Mercedes,55,+1,lap,0
+2024,20 Oct,United States,16,23,Alexander Albon,Williams Mercedes,55,+1,lap,0
+2024,20 Oct,United States,17,77,Valtteri Bottas,Kick Sauber Ferrari,55,+1,lap,0
+2024,20 Oct,United States,18,31,Esteban Ocon,Alpine Renault,55,+1,lap,0
+2024,20 Oct,United States,19,24,Zhou Guanyu,Kick Sauber Ferrari,55,+1,lap,0
+2024,20 Oct,United States,NC,44,Lewis Hamilton,Mercedes,1,DNF,0
+2024,27 Oct,Mexico,1,55,Carlos Sainz,Ferrari,71,1:40:55.800,25
+2024,27 Oct,Mexico,2,4,Lando Norris,McLaren Mercedes,71,+4.705s,18
+2024,27 Oct,Mexico,3,16,Charles Leclerc,Ferrari,71,+34.387s,16
+2024,27 Oct,Mexico,4,44,Lewis Hamilton,Mercedes,71,+44.780s,12
+2024,27 Oct,Mexico,5,63,George Russell,Mercedes,71,+48.536s,10
+2024,27 Oct,Mexico,6,1,Max Verstappen,Red Bull Racing Honda RBPT,71,+59.558s,8
+2024,27 Oct,Mexico,7,20,Kevin Magnussen,Haas Ferrari,71,+63.642s,6
+2024,27 Oct,Mexico,8,81,Oscar Piastri,McLaren Mercedes,71,+64.928s,4
+2024,27 Oct,Mexico,9,27,Nico Hulkenberg,Haas Ferrari,70,+1,lap,2
+2024,27 Oct,Mexico,10,10,Pierre Gasly,Alpine Renault,70,+1,lap,1
+2024,27 Oct,Mexico,11,18,Lance Stroll,Aston Martin Aramco Mercedes,70,+1,lap,0
+2024,27 Oct,Mexico,12,43,Franco Colapinto,Williams Mercedes,70,+1,lap,0
+2024,27 Oct,Mexico,13,31,Esteban Ocon,Alpine Renault,70,+1,lap,0
+2024,27 Oct,Mexico,14,77,Valtteri Bottas,Kick Sauber Ferrari,70,+1,lap,0
+2024,27 Oct,Mexico,15,24,Zhou Guanyu,Kick Sauber Ferrari,70,+1,lap,0
+2024,27 Oct,Mexico,16,30,Liam Lawson,RB Honda RBPT,70,+1,lap,0
+2024,27 Oct,Mexico,17,11,Sergio Perez,Red Bull Racing Honda RBPT,70,+1,lap,0
+2024,27 Oct,Mexico,NC,14,Fernando Alonso,Aston Martin Aramco Mercedes,15,DNF,0
+2024,27 Oct,Mexico,NC,23,Alexander Albon,Williams Mercedes,0,DNF,0
+2024,27 Oct,Mexico,NC,22,Yuki Tsunoda,RB Honda RBPT,0,DNF,0
+2024,03 Nov,Brazil,1,1,Max Verstappen,Red Bull Racing Honda RBPT,69,2:06:54.430,26
+2024,03 Nov,Brazil,2,31,Esteban Ocon,Alpine Renault,69,+19.477s,18
+2024,03 Nov,Brazil,3,10,Pierre Gasly,Alpine Renault,69,+22.532s,15
+2024,03 Nov,Brazil,4,63,George Russell,Mercedes,69,+23.265s,12
+2024,03 Nov,Brazil,5,16,Charles Leclerc,Ferrari,69,+30.177s,10
+2024,03 Nov,Brazil,6,4,Lando Norris,McLaren Mercedes,69,+31.372s,8
+2024,03 Nov,Brazil,7,22,Yuki Tsunoda,RB Honda RBPT,69,+42.056s,6
+2024,03 Nov,Brazil,8,81,Oscar Piastri,McLaren Mercedes,69,+44.943s,4
+2024,03 Nov,Brazil,9,30,Liam Lawson,RB Honda RBPT,69,+50.452s,2
+2024,03 Nov,Brazil,10,44,Lewis Hamilton,Mercedes,69,+50.753s,1
+2024,03 Nov,Brazil,11,11,Sergio Perez,Red Bull Racing Honda RBPT,69,+51.531s,0
+2024,03 Nov,Brazil,12,50,Oliver Bearman,Haas Ferrari,69,+57.085s,0
+2024,03 Nov,Brazil,13,77,Valtteri Bottas,Kick Sauber Ferrari,69,+63.588s,0
+2024,03 Nov,Brazil,14,14,Fernando Alonso,Aston Martin Aramco Mercedes,69,+78.049s,0
+2024,03 Nov,Brazil,15,24,Zhou Guanyu,Kick Sauber Ferrari,69,+79.649s,0
+2024,03 Nov,Brazil,NC,55,Carlos Sainz,Ferrari,38,DNF,0
+2024,03 Nov,Brazil,NC,43,Franco Colapinto,Williams Mercedes,30,DNF,0
+2024,03 Nov,Brazil,NC,23,Alexander Albon,Williams Mercedes,0,DNS,0
+2024,03 Nov,Brazil,NC,18,Lance Stroll,Aston Martin Aramco Mercedes,0,DNS,0
+2024,03 Nov,Brazil,DQ,27,Nico Hulkenberg,Haas Ferrari,DSQ,0
+2024,23 Nov,Las Vegas,1,63,George Russell,Mercedes,50,1:22:05.969,25
+2024,23 Nov,Las Vegas,2,44,Lewis Hamilton,Mercedes,50,+7.313s,18
+2024,23 Nov,Las Vegas,3,55,Carlos Sainz,Ferrari,50,+11.906s,15
+2024,23 Nov,Las Vegas,4,16,Charles Leclerc,Ferrari,50,+14.283s,12
+2024,23 Nov,Las Vegas,5,1,Max Verstappen,Red Bull Racing Honda RBPT,50,+16.582s,10
+2024,23 Nov,Las Vegas,6,4,Lando Norris,McLaren Mercedes,50,+43.385s,9
+2024,23 Nov,Las Vegas,7,81,Oscar Piastri,McLaren Mercedes,50,+51.365s,6
+2024,23 Nov,Las Vegas,8,27,Nico Hulkenberg,Haas Ferrari,50,+59.808s,4
+2024,23 Nov,Las Vegas,9,22,Yuki Tsunoda,RB Honda RBPT,50,+62.808s,2
+2024,23 Nov,Las Vegas,10,11,Sergio Perez,Red Bull Racing Honda RBPT,50,+63.114s,1
+2024,23 Nov,Las Vegas,11,14,Fernando Alonso,Aston Martin Aramco Mercedes,50,+69.195s,0
+2024,23 Nov,Las Vegas,12,20,Kevin Magnussen,Haas Ferrari,50,+69.803s,0
+2024,23 Nov,Las Vegas,13,24,Zhou Guanyu,Kick Sauber Ferrari,50,+74.085s,0
+2024,23 Nov,Las Vegas,14,43,Franco Colapinto,Williams Mercedes,50,+75.172s,0
+2024,23 Nov,Las Vegas,15,18,Lance Stroll,Aston Martin Aramco Mercedes,50,+84.102s,0
+2024,23 Nov,Las Vegas,16,30,Liam Lawson,RB Honda RBPT,50,+91.005s,0
+2024,23 Nov,Las Vegas,17,31,Esteban Ocon,Alpine Renault,49,+1,lap,0
+2024,23 Nov,Las Vegas,18,77,Valtteri Bottas,Kick Sauber Ferrari,49,+1,lap,0
+2024,23 Nov,Las Vegas,NC,23,Alexander Albon,Williams Mercedes,25,DNF,0
+2024,23 Nov,Las Vegas,NC,10,Pierre Gasly,Alpine Renault,15,DNF,0
+2024,01 Dec,Qatar,1,1,Max Verstappen,Red Bull Racing Honda RBPT,57,1:31:05.323,25
+2024,01 Dec,Qatar,2,16,Charles Leclerc,Ferrari,57,+6.031s,18
+2024,01 Dec,Qatar,3,81,Oscar Piastri,McLaren Mercedes,57,+6.819s,15
+2024,01 Dec,Qatar,4,63,George Russell,Mercedes,57,+14.104s,12
+2024,01 Dec,Qatar,5,10,Pierre Gasly,Alpine Renault,57,+16.782s,10
+2024,01 Dec,Qatar,6,55,Carlos Sainz,Ferrari,57,+17.476s,8
+2024,01 Dec,Qatar,7,14,Fernando Alonso,Aston Martin Aramco Mercedes,57,+19.867s,6
+2024,01 Dec,Qatar,8,24,Zhou Guanyu,Kick Sauber Ferrari,57,+25.360s,4
+2024,01 Dec,Qatar,9,20,Kevin Magnussen,Haas Ferrari,57,+32.177s,2
+2024,01 Dec,Qatar,10,4,Lando Norris,McLaren Mercedes,57,+35.762s,2
+2024,01 Dec,Qatar,11,77,Valtteri Bottas,Kick Sauber Ferrari,57,+50.243s,0
+2024,01 Dec,Qatar,12,44,Lewis Hamilton,Mercedes,57,+56.122s,0
+2024,01 Dec,Qatar,13,22,Yuki Tsunoda,RB Honda RBPT,57,+61.100s,0
+2024,01 Dec,Qatar,14,30,Liam Lawson,RB Honda RBPT,57,+62.656s,0
+2024,01 Dec,Qatar,15,23,Alexander Albon,Williams Mercedes,56,+1,lap,0
+2024,01 Dec,Qatar,NC,27,Nico Hulkenberg,Haas Ferrari,39,DNF,0
+2024,01 Dec,Qatar,NC,11,Sergio Perez,Red Bull Racing Honda RBPT,38,DNF,0
+2024,01 Dec,Qatar,NC,18,Lance Stroll,Aston Martin Aramco Mercedes,8,DNF,0
+2024,01 Dec,Qatar,NC,43,Franco Colapinto,Williams Mercedes,0,DNF,0
+2024,01 Dec,Qatar,NC,31,Esteban Ocon,Alpine Renault,0,DNF,0
+2024,08 Dec,Abu Dhabi,1,4,Lando Norris,McLaren Mercedes,58,1:26:33.291,25
+2024,08 Dec,Abu Dhabi,2,55,Carlos Sainz,Ferrari,58,+5.832s,18
+2024,08 Dec,Abu Dhabi,3,16,Charles Leclerc,Ferrari,58,+31.928s,15
+2024,08 Dec,Abu Dhabi,4,44,Lewis Hamilton,Mercedes,58,+36.483s,12
+2024,08 Dec,Abu Dhabi,5,63,George Russell,Mercedes,58,+37.538s,10
+2024,08 Dec,Abu Dhabi,6,1,Max Verstappen,Red Bull Racing Honda RBPT,58,+49.847s,8
+2024,08 Dec,Abu Dhabi,7,10,Pierre Gasly,Alpine Renault,58,+72.560s,6
+2024,08 Dec,Abu Dhabi,8,27,Nico Hulkenberg,Haas Ferrari,58,+75.554s,4
+2024,08 Dec,Abu Dhabi,9,14,Fernando Alonso,Aston Martin Aramco Mercedes,58,+82.373s,2
+2024,08 Dec,Abu Dhabi,10,81,Oscar Piastri,McLaren Mercedes,58,+83.821s,1
+2024,08 Dec,Abu Dhabi,11,23,Alexander Albon,Williams Mercedes,57,+1,lap,0
+2024,08 Dec,Abu Dhabi,12,22,Yuki Tsunoda,RB Honda RBPT,57,+1,lap,0
+2024,08 Dec,Abu Dhabi,13,24,Zhou Guanyu,Kick Sauber Ferrari,57,+1,lap,0
+2024,08 Dec,Abu Dhabi,14,18,Lance Stroll,Aston Martin Aramco Mercedes,57,+1,lap,0
+2024,08 Dec,Abu Dhabi,15,61,Jack Doohan,Alpine Renault,57,+1,lap,0
+2024,08 Dec,Abu Dhabi,16,20,Kevin Magnussen,Haas Ferrari,57,+1,lap,0
+2024,08 Dec,Abu Dhabi,17,30,Liam Lawson,RB Honda RBPT,55,DNF,0
+2024,08 Dec,Abu Dhabi,NC,77,Valtteri Bottas,Kick Sauber Ferrari,30,DNF,0
+2024,08 Dec,Abu Dhabi,NC,43,Franco Colapinto,Williams Mercedes,26,DNF,0
+2024,08 Dec,Abu Dhabi,NC,11,Sergio Perez,Red Bull Racing Honda RBPT,0,DNF,0
+2023,05 Mar,Bahrain,1,1,Max Verstappen,Red Bull Racing Honda RBPT,57,1:33:56.736,25
+2023,05 Mar,Bahrain,2,11,Sergio Perez,Red Bull Racing Honda RBPT,57,+11.987s,18
+2023,05 Mar,Bahrain,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,57,+38.637s,15
+2023,05 Mar,Bahrain,4,55,Carlos Sainz,Ferrari,57,+48.052s,12
+2023,05 Mar,Bahrain,5,44,Lewis Hamilton,Mercedes,57,+50.977s,10
+2023,05 Mar,Bahrain,6,18,Lance Stroll,Aston Martin Aramco Mercedes,57,+54.502s,8
+2023,05 Mar,Bahrain,7,63,George Russell,Mercedes,57,+55.873s,6
+2023,05 Mar,Bahrain,8,77,Valtteri Bottas,Alfa Romeo Ferrari,57,+72.647s,4
+2023,05 Mar,Bahrain,9,10,Pierre Gasly,Alpine Renault,57,+73.753s,2
+2023,05 Mar,Bahrain,10,23,Alexander Albon,Williams Mercedes,57,+89.774s,1
+2023,05 Mar,Bahrain,11,22,Yuki Tsunoda,AlphaTauri Honda RBPT,57,+90.870s,0
+2023,05 Mar,Bahrain,12,2,Logan Sargeant,Williams Mercedes,56,+1,lap,0
+2023,05 Mar,Bahrain,13,20,Kevin Magnussen,Haas Ferrari,56,+1,lap,0
+2023,05 Mar,Bahrain,14,21,Nyck De Vries,AlphaTauri Honda RBPT,56,+1,lap,0
+2023,05 Mar,Bahrain,15,27,Nico Hulkenberg,Haas Ferrari,56,+1,lap,0
+2023,05 Mar,Bahrain,16,24,Zhou Guanyu,Alfa Romeo Ferrari,56,+1,lap,0
+2023,05 Mar,Bahrain,17,4,Lando Norris,McLaren Mercedes,55,+2,laps,0
+2023,05 Mar,Bahrain,NC,31,Esteban Ocon,Alpine Renault,41,DNF,0
+2023,05 Mar,Bahrain,NC,16,Charles Leclerc,Ferrari,39,DNF,0
+2023,05 Mar,Bahrain,NC,81,Oscar Piastri,McLaren Mercedes,13,DNF,0
+2023,19 Mar,Saudi Arabia,1,11,Sergio Perez,Red Bull Racing Honda RBPT,50,1:21:14.894,25
+2023,19 Mar,Saudi Arabia,2,1,Max Verstappen,Red Bull Racing Honda RBPT,50,+5.355s,0
+2023,19 Mar,Saudi Arabia,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,50,+20.728s,15
+2023,19 Mar,Saudi Arabia,4,63,George Russell,Mercedes,50,+25.866s,12
+2023,19 Mar,Saudi Arabia,5,44,Lewis Hamilton,Mercedes,50,+31.065s,10
+2023,19 Mar,Saudi Arabia,6,55,Carlos Sainz,Ferrari,50,+35.876s,8
+2023,19 Mar,Saudi Arabia,7,16,Charles Leclerc,Ferrari,50,+43.162s,6
+2023,19 Mar,Saudi Arabia,8,31,Esteban Ocon,Alpine Renault,50,+52.832s,4
+2023,19 Mar,Saudi Arabia,9,10,Pierre Gasly,Alpine Renault,50,+54.747s,2
+2023,19 Mar,Saudi Arabia,10,20,Kevin Magnussen,Haas Ferrari,50,+64.826s,1
+2023,19 Mar,Saudi Arabia,11,22,Yuki Tsunoda,AlphaTauri Honda RBPT,50,+67.494s,0
+2023,19 Mar,Saudi Arabia,12,27,Nico Hulkenberg,Haas Ferrari,50,+70.588s,0
+2023,19 Mar,Saudi Arabia,13,24,Zhou Guanyu,Alfa Romeo Ferrari,50,+76.060s,0
+2023,19 Mar,Saudi Arabia,14,21,Nyck De Vries,AlphaTauri Honda RBPT,50,+77.478s,0
+2023,19 Mar,Saudi Arabia,15,81,Oscar Piastri,McLaren Mercedes,50,+85.021s,0
+2023,19 Mar,Saudi Arabia,16,2,Logan Sargeant,Williams Mercedes,50,+86.293s,0
+2023,19 Mar,Saudi Arabia,17,4,Lando Norris,McLaren Mercedes,50,+86.445s,0
+2023,19 Mar,Saudi Arabia,18,77,Valtteri Bottas,Alfa Romeo Ferrari,49,+1,lap,0
+2023,19 Mar,Saudi Arabia,NC,23,Alexander Albon,Williams Mercedes,27,DNF,0
+2023,19 Mar,Saudi Arabia,NC,18,Lance Stroll,Aston Martin Aramco Mercedes,16,DNF,0
+2023,02 Apr,Australia,1,1,Max Verstappen,Red Bull Racing Honda RBPT,58,2:32:38.371,25
+2023,02 Apr,Australia,2,44,Lewis Hamilton,Mercedes,58,+0.179s,18
+2023,02 Apr,Australia,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,58,+0.769s,15
+2023,02 Apr,Australia,4,18,Lance Stroll,Aston Martin Aramco Mercedes,58,+3.082s,12
+2023,02 Apr,Australia,5,11,Sergio Perez,Red Bull Racing Honda RBPT,58,+3.320s,11
+2023,02 Apr,Australia,6,4,Lando Norris,McLaren Mercedes,58,+3.701s,8
+2023,02 Apr,Australia,7,27,Nico Hulkenberg,Haas Ferrari,58,+4.939s,6
+2023,02 Apr,Australia,8,81,Oscar Piastri,McLaren Mercedes,58,+5.382s,4
+2023,02 Apr,Australia,9,24,Zhou Guanyu,Alfa Romeo Ferrari,58,+5.713s,2
+2023,02 Apr,Australia,10,22,Yuki Tsunoda,AlphaTauri Honda RBPT,58,+6.052s,1
+2023,02 Apr,Australia,11,77,Valtteri Bottas,Alfa Romeo Ferrari,58,+6.513s,0
+2023,02 Apr,Australia,12,55,Carlos Sainz,Ferrari,58,+6.594s,0
+2023,02 Apr,Australia,13,10,Pierre Gasly,Alpine Renault,56,DNF,0
+2023,02 Apr,Australia,14,31,Esteban Ocon,Alpine Renault,56,DNF,0
+2023,02 Apr,Australia,15,21,Nyck De Vries,AlphaTauri Honda RBPT,56,DNF,0
+2023,02 Apr,Australia,16,2,Logan Sargeant,Williams Mercedes,56,DNF,0
+2023,02 Apr,Australia,17,20,Kevin Magnussen,Haas Ferrari,52,DNF,0
+2023,02 Apr,Australia,NC,63,George Russell,Mercedes,17,DNF,0
+2023,02 Apr,Australia,NC,23,Alexander Albon,Williams Mercedes,6,DNF,0
+2023,02 Apr,Australia,NC,16,Charles Leclerc,Ferrari,0,DNF,0
+2023,30 Apr,Azerbaijan,1,11,Sergio Perez,Red Bull Racing Honda RBPT,51,1:32:42.436,25
+2023,30 Apr,Azerbaijan,2,1,Max Verstappen,Red Bull Racing Honda RBPT,51,+2.137s,18
+2023,30 Apr,Azerbaijan,3,16,Charles Leclerc,Ferrari,51,+21.217s,15
+2023,30 Apr,Azerbaijan,4,14,Fernando Alonso,Aston Martin Aramco Mercedes,51,+22.024s,12
+2023,30 Apr,Azerbaijan,5,55,Carlos Sainz,Ferrari,51,+45.491s,10
+2023,30 Apr,Azerbaijan,6,44,Lewis Hamilton,Mercedes,51,+46.145s,8
+2023,30 Apr,Azerbaijan,7,18,Lance Stroll,Aston Martin Aramco Mercedes,51,+51.617s,6
+2023,30 Apr,Azerbaijan,8,63,George Russell,Mercedes,51,+74.240s,5
+2023,30 Apr,Azerbaijan,9,4,Lando Norris,McLaren Mercedes,51,+80.376s,2
+2023,30 Apr,Azerbaijan,10,22,Yuki Tsunoda,AlphaTauri Honda RBPT,51,+83.862s,1
+2023,30 Apr,Azerbaijan,11,81,Oscar Piastri,McLaren Mercedes,51,+86.501s,0
+2023,30 Apr,Azerbaijan,12,23,Alexander Albon,Williams Mercedes,51,+88.623s,0
+2023,30 Apr,Azerbaijan,13,20,Kevin Magnussen,Haas Ferrari,51,+89.729s,0
+2023,30 Apr,Azerbaijan,14,10,Pierre Gasly,Alpine Renault,51,+91.332s,0
+2023,30 Apr,Azerbaijan,15,31,Esteban Ocon,Alpine Renault,51,+97.794s,0
+2023,30 Apr,Azerbaijan,16,2,Logan Sargeant,Williams Mercedes,51,+100.943s,0
+2023,30 Apr,Azerbaijan,17,27,Nico Hulkenberg,Haas Ferrari,50,+1,lap,0
+2023,30 Apr,Azerbaijan,18,77,Valtteri Bottas,Alfa Romeo Ferrari,50,+1,lap,0
+2023,30 Apr,Azerbaijan,NC,24,Zhou Guanyu,Alfa Romeo Ferrari,36,DNF,0
+2023,30 Apr,Azerbaijan,NC,21,Nyck De Vries,AlphaTauri Honda RBPT,9,DNF,0
+2023,07 May,Miami,1,1,Max Verstappen,Red Bull Racing Honda RBPT,57,1:27:38.241,26
+2023,07 May,Miami,2,11,Sergio Perez,Red Bull Racing Honda RBPT,57,+5.384s,18
+2023,07 May,Miami,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,57,+26.305s,15
+2023,07 May,Miami,4,63,George Russell,Mercedes,57,+33.229s,12
+2023,07 May,Miami,5,55,Carlos Sainz,Ferrari,57,+42.511s,10
+2023,07 May,Miami,6,44,Lewis Hamilton,Mercedes,57,+51.249s,8
+2023,07 May,Miami,7,16,Charles Leclerc,Ferrari,57,+52.988s,6
+2023,07 May,Miami,8,10,Pierre Gasly,Alpine Renault,57,+55.670s,4
+2023,07 May,Miami,9,31,Esteban Ocon,Alpine Renault,57,+58.123s,2
+2023,07 May,Miami,10,20,Kevin Magnussen,Haas Ferrari,57,+62.945s,1
+2023,07 May,Miami,11,22,Yuki Tsunoda,AlphaTauri Honda RBPT,57,+64.309s,0
+2023,07 May,Miami,12,18,Lance Stroll,Aston Martin Aramco Mercedes,57,+64.754s,0
+2023,07 May,Miami,13,77,Valtteri Bottas,Alfa Romeo Ferrari,57,+71.637s,0
+2023,07 May,Miami,14,23,Alexander Albon,Williams Mercedes,57,+72.861s,0
+2023,07 May,Miami,15,27,Nico Hulkenberg,Haas Ferrari,57,+74.950s,0
+2023,07 May,Miami,16,24,Zhou Guanyu,Alfa Romeo Ferrari,57,+78.440s,0
+2023,07 May,Miami,17,4,Lando Norris,McLaren Mercedes,57,+87.717s,0
+2023,07 May,Miami,18,21,Nyck De Vries,AlphaTauri Honda RBPT,57,+88.949s,0
+2023,07 May,Miami,19,81,Oscar Piastri,McLaren Mercedes,56,+1,lap,0
+2023,07 May,Miami,20,2,Logan Sargeant,Williams Mercedes,56,+1,lap,0
+2023,28 May,Monaco,1,1,Max Verstappen,Red Bull Racing Honda RBPT,78,1:48:51.980,25
+2023,28 May,Monaco,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,78,+27.921s,18
+2023,28 May,Monaco,3,31,Esteban Ocon,Alpine Renault,78,+36.990s,15
+2023,28 May,Monaco,4,44,Lewis Hamilton,Mercedes,78,+39.062s,13
+2023,28 May,Monaco,5,63,George Russell,Mercedes,78,+56.284s,10
+2023,28 May,Monaco,6,16,Charles Leclerc,Ferrari,78,+61.890s,8
+2023,28 May,Monaco,7,10,Pierre Gasly,Alpine Renault,78,+62.362s,6
+2023,28 May,Monaco,8,55,Carlos Sainz,Ferrari,78,+63.391s,4
+2023,28 May,Monaco,9,4,Lando Norris,McLaren Mercedes,77,+1,lap,2
+2023,28 May,Monaco,10,81,Oscar Piastri,McLaren Mercedes,77,+1,lap,1
+2023,28 May,Monaco,11,77,Valtteri Bottas,Alfa Romeo Ferrari,77,+1,lap,0
+2023,28 May,Monaco,12,21,Nyck De Vries,AlphaTauri Honda RBPT,77,+1,lap,0
+2023,28 May,Monaco,13,24,Zhou Guanyu,Alfa Romeo Ferrari,77,+1,lap,0
+2023,28 May,Monaco,14,23,Alexander Albon,Williams Mercedes,77,+1,lap,0
+2023,28 May,Monaco,15,22,Yuki Tsunoda,AlphaTauri Honda RBPT,76,+2,laps,0
+2023,28 May,Monaco,16,11,Sergio Perez,Red Bull Racing Honda RBPT,76,+2,laps,0
+2023,28 May,Monaco,17,27,Nico Hulkenberg,Haas Ferrari,76,+2,laps,0
+2023,28 May,Monaco,18,2,Logan Sargeant,Williams Mercedes,76,+2,laps,0
+2023,28 May,Monaco,19,20,Kevin Magnussen,Haas Ferrari,70,DNF,0
+2023,28 May,Monaco,NC,18,Lance Stroll,Aston Martin Aramco Mercedes,53,DNF,0
+2023,04 Jun,Spain,1,1,Max Verstappen,Red Bull Racing Honda RBPT,66,1:27:57.940,26
+2023,04 Jun,Spain,2,44,Lewis Hamilton,Mercedes,66,+24.090s,18
+2023,04 Jun,Spain,3,63,George Russell,Mercedes,66,+32.389s,15
+2023,04 Jun,Spain,4,11,Sergio Perez,Red Bull Racing Honda RBPT,66,+35.812s,12
+2023,04 Jun,Spain,5,55,Carlos Sainz,Ferrari,66,+45.698s,10
+2023,04 Jun,Spain,6,18,Lance Stroll,Aston Martin Aramco Mercedes,66,+63.320s,8
+2023,04 Jun,Spain,7,14,Fernando Alonso,Aston Martin Aramco Mercedes,66,+64.127s,6
+2023,04 Jun,Spain,8,31,Esteban Ocon,Alpine Renault,66,+69.242s,4
+2023,04 Jun,Spain,9,24,Zhou Guanyu,Alfa Romeo Ferrari,66,+71.878s,2
+2023,04 Jun,Spain,10,10,Pierre Gasly,Alpine Renault,66,+73.530s,1
+2023,04 Jun,Spain,11,16,Charles Leclerc,Ferrari,66,+74.419s,0
+2023,04 Jun,Spain,12,22,Yuki Tsunoda,AlphaTauri Honda RBPT,66,+75.416s,0
+2023,04 Jun,Spain,13,81,Oscar Piastri,McLaren Mercedes,65,+1,lap,0
+2023,04 Jun,Spain,14,21,Nyck De Vries,AlphaTauri Honda RBPT,65,+1,lap,0
+2023,04 Jun,Spain,15,27,Nico Hulkenberg,Haas Ferrari,65,+1,lap,0
+2023,04 Jun,Spain,16,23,Alexander Albon,Williams Mercedes,65,+1,lap,0
+2023,04 Jun,Spain,17,4,Lando Norris,McLaren Mercedes,65,+1,lap,0
+2023,04 Jun,Spain,18,20,Kevin Magnussen,Haas Ferrari,65,+1,lap,0
+2023,04 Jun,Spain,19,77,Valtteri Bottas,Alfa Romeo Ferrari,65,+1,lap,0
+2023,04 Jun,Spain,20,2,Logan Sargeant,Williams Mercedes,65,+1,lap,0
+2023,18 Jun,Canada,1,1,Max Verstappen,Red Bull Racing Honda RBPT,70,1:33:58.348,25
+2023,18 Jun,Canada,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,70,+9.570s,18
+2023,18 Jun,Canada,3,44,Lewis Hamilton,Mercedes,70,+14.168s,15
+2023,18 Jun,Canada,4,16,Charles Leclerc,Ferrari,70,+18.648s,12
+2023,18 Jun,Canada,5,55,Carlos Sainz,Ferrari,70,+21.540s,10
+2023,18 Jun,Canada,6,11,Sergio Perez,Red Bull Racing Honda RBPT,70,+51.028s,9
+2023,18 Jun,Canada,7,23,Alexander Albon,Williams Mercedes,70,+60.813s,6
+2023,18 Jun,Canada,8,31,Esteban Ocon,Alpine Renault,70,+61.692s,4
+2023,18 Jun,Canada,9,18,Lance Stroll,Aston Martin Aramco Mercedes,70,+64.402s,2
+2023,18 Jun,Canada,10,77,Valtteri Bottas,Alfa Romeo Ferrari,70,+64.432s,1
+2023,18 Jun,Canada,11,81,Oscar Piastri,McLaren Mercedes,70,+65.101s,0
+2023,18 Jun,Canada,12,10,Pierre Gasly,Alpine Renault,70,+65.249s,0
+2023,18 Jun,Canada,13,4,Lando Norris,McLaren Mercedes,70,+68.363s,0
+2023,18 Jun,Canada,14,22,Yuki Tsunoda,AlphaTauri Honda RBPT,70,+73.423s,0
+2023,18 Jun,Canada,15,27,Nico Hulkenberg,Haas Ferrari,69,+1,lap,0
+2023,18 Jun,Canada,16,24,Zhou Guanyu,Alfa Romeo Ferrari,69,+1,lap,0
+2023,18 Jun,Canada,17,20,Kevin Magnussen,Haas Ferrari,69,+1,lap,0
+2023,18 Jun,Canada,18,21,Nyck De Vries,AlphaTauri Honda RBPT,69,+1,lap,0
+2023,18 Jun,Canada,NC,63,George Russell,Mercedes,53,DNF,0
+2023,18 Jun,Canada,NC,2,Logan Sargeant,Williams Mercedes,6,DNF,0
+2023,02 Jul,Austria,1,1,Max Verstappen,Red Bull Racing Honda RBPT,71,1:25:33.607,26
+2023,02 Jul,Austria,2,16,Charles Leclerc,Ferrari,71,+5.155s,18
+2023,02 Jul,Austria,3,11,Sergio Perez,Red Bull Racing Honda RBPT,71,+17.188s,15
+2023,02 Jul,Austria,4,4,Lando Norris,McLaren Mercedes,71,+26.327s,12
+2023,02 Jul,Austria,5,14,Fernando Alonso,Aston Martin Aramco Mercedes,71,+30.317s,10
+2023,02 Jul,Austria,6,55,Carlos Sainz,Ferrari,71,+31.377s,8
+2023,02 Jul,Austria,7,63,George Russell,Mercedes,71,+48.403s,6
+2023,02 Jul,Austria,8,44,Lewis Hamilton,Mercedes,71,+49.196s,4
+2023,02 Jul,Austria,9,18,Lance Stroll,Aston Martin Aramco Mercedes,71,+59.043s,2
+2023,02 Jul,Austria,10,10,Pierre Gasly,Alpine Renault,71,+67.667s,1
+2023,02 Jul,Austria,11,23,Alexander Albon,Williams Mercedes,71,+79.767s,0
+2023,02 Jul,Austria,12,24,Zhou Guanyu,Alfa Romeo Ferrari,70,+1,lap,0
+2023,02 Jul,Austria,13,2,Logan Sargeant,Williams Mercedes,70,+1,lap,0
+2023,02 Jul,Austria,14,31,Esteban Ocon,Alpine Renault,70,+1,lap,0
+2023,02 Jul,Austria,15,77,Valtteri Bottas,Alfa Romeo Ferrari,70,+1,lap,0
+2023,02 Jul,Austria,16,81,Oscar Piastri,McLaren Mercedes,70,+1,lap,0
+2023,02 Jul,Austria,17,21,Nyck De Vries,AlphaTauri Honda RBPT,70,+1,lap,0
+2023,02 Jul,Austria,18,20,Kevin Magnussen,Haas Ferrari,70,+1,lap,0
+2023,02 Jul,Austria,19,22,Yuki Tsunoda,AlphaTauri Honda RBPT,70,+1,lap,0
+2023,02 Jul,Austria,NC,27,Nico Hulkenberg,Haas Ferrari,12,DNF,0
+2023,09 Jul,Great Britain,1,1,Max Verstappen,Red Bull Racing Honda RBPT,52,1:25:16.938,26
+2023,09 Jul,Great Britain,2,4,Lando Norris,McLaren Mercedes,52,+3.798s,18
+2023,09 Jul,Great Britain,3,44,Lewis Hamilton,Mercedes,52,+6.783s,15
+2023,09 Jul,Great Britain,4,81,Oscar Piastri,McLaren Mercedes,52,+7.776s,12
+2023,09 Jul,Great Britain,5,63,George Russell,Mercedes,52,+11.206s,10
+2023,09 Jul,Great Britain,6,11,Sergio Perez,Red Bull Racing Honda RBPT,52,+12.882s,8
+2023,09 Jul,Great Britain,7,14,Fernando Alonso,Aston Martin Aramco Mercedes,52,+17.193s,6
+2023,09 Jul,Great Britain,8,23,Alexander Albon,Williams Mercedes,52,+17.878s,4
+2023,09 Jul,Great Britain,9,16,Charles Leclerc,Ferrari,52,+18.689s,2
+2023,09 Jul,Great Britain,10,55,Carlos Sainz,Ferrari,52,+19.448s,1
+2023,09 Jul,Great Britain,11,2,Logan Sargeant,Williams Mercedes,52,+23.632s,0
+2023,09 Jul,Great Britain,12,77,Valtteri Bottas,Alfa Romeo Ferrari,52,+25.830s,0
+2023,09 Jul,Great Britain,13,27,Nico Hulkenberg,Haas Ferrari,52,+26.663s,0
+2023,09 Jul,Great Britain,14,18,Lance Stroll,Aston Martin Aramco Mercedes,52,+27.483s,0
+2023,09 Jul,Great Britain,15,24,Zhou Guanyu,Alfa Romeo Ferrari,52,+29.820s,0
+2023,09 Jul,Great Britain,16,22,Yuki Tsunoda,AlphaTauri Honda RBPT,52,+31.225s,0
+2023,09 Jul,Great Britain,17,21,Nyck De Vries,AlphaTauri Honda RBPT,52,+33.128s,0
+2023,09 Jul,Great Britain,18,10,Pierre Gasly,Alpine Renault,46,DNF,0
+2023,09 Jul,Great Britain,NC,20,Kevin Magnussen,Haas Ferrari,31,DNF,0
+2023,09 Jul,Great Britain,NC,31,Esteban Ocon,Alpine Renault,9,DNF,0
+2023,23 Jul,Hungary,1,1,Max Verstappen,Red Bull Racing Honda RBPT,70,1:38:08.634,26
+2023,23 Jul,Hungary,2,4,Lando Norris,McLaren Mercedes,70,+33.731s,18
+2023,23 Jul,Hungary,3,11,Sergio Perez,Red Bull Racing Honda RBPT,70,+37.603s,15
+2023,23 Jul,Hungary,4,44,Lewis Hamilton,Mercedes,70,+39.134s,12
+2023,23 Jul,Hungary,5,81,Oscar Piastri,McLaren Mercedes,70,+62.572s,10
+2023,23 Jul,Hungary,6,63,George Russell,Mercedes,70,+65.825s,8
+2023,23 Jul,Hungary,7,16,Charles Leclerc,Ferrari,70,+70.317s,6
+2023,23 Jul,Hungary,8,55,Carlos Sainz,Ferrari,70,+71.073s,4
+2023,23 Jul,Hungary,9,14,Fernando Alonso,Aston Martin Aramco Mercedes,70,+75.709s,2
+2023,23 Jul,Hungary,10,18,Lance Stroll,Aston Martin Aramco Mercedes,69,+1,lap,1
+2023,23 Jul,Hungary,11,23,Alexander Albon,Williams Mercedes,69,+1,lap,0
+2023,23 Jul,Hungary,12,77,Valtteri Bottas,Alfa Romeo Ferrari,69,+1,lap,0
+2023,23 Jul,Hungary,13,3,Daniel Ricciardo,AlphaTauri Honda RBPT,69,+1,lap,0
+2023,23 Jul,Hungary,14,27,Nico Hulkenberg,Haas Ferrari,69,+1,lap,0
+2023,23 Jul,Hungary,15,22,Yuki Tsunoda,AlphaTauri Honda RBPT,69,+1,lap,0
+2023,23 Jul,Hungary,16,24,Zhou Guanyu,Alfa Romeo Ferrari,69,+1,lap,0
+2023,23 Jul,Hungary,17,20,Kevin Magnussen,Haas Ferrari,69,+1,lap,0
+2023,23 Jul,Hungary,18,2,Logan Sargeant,Williams Mercedes,67,DNF,0
+2023,23 Jul,Hungary,NC,31,Esteban Ocon,Alpine Renault,2,DNF,0
+2023,23 Jul,Hungary,NC,10,Pierre Gasly,Alpine Renault,1,DNF,0
+2023,30 Jul,Belgium,1,1,Max Verstappen,Red Bull Racing Honda RBPT,44,1:22:30.450,25
+2023,30 Jul,Belgium,2,11,Sergio Perez,Red Bull Racing Honda RBPT,44,+22.305s,18
+2023,30 Jul,Belgium,3,16,Charles Leclerc,Ferrari,44,+32.259s,15
+2023,30 Jul,Belgium,4,44,Lewis Hamilton,Mercedes,44,+49.671s,13
+2023,30 Jul,Belgium,5,14,Fernando Alonso,Aston Martin Aramco Mercedes,44,+56.184s,10
+2023,30 Jul,Belgium,6,63,George Russell,Mercedes,44,+63.101s,8
+2023,30 Jul,Belgium,7,4,Lando Norris,McLaren Mercedes,44,+73.719s,6
+2023,30 Jul,Belgium,8,31,Esteban Ocon,Alpine Renault,44,+74.719s,4
+2023,30 Jul,Belgium,9,18,Lance Stroll,Aston Martin Aramco Mercedes,44,+79.340s,2
+2023,30 Jul,Belgium,10,22,Yuki Tsunoda,AlphaTauri Honda RBPT,44,+80.221s,1
+2023,30 Jul,Belgium,11,10,Pierre Gasly,Alpine Renault,44,+83.084s,0
+2023,30 Jul,Belgium,12,77,Valtteri Bottas,Alfa Romeo Ferrari,44,+85.191s,0
+2023,30 Jul,Belgium,13,24,Zhou Guanyu,Alfa Romeo Ferrari,44,+95.441s,0
+2023,30 Jul,Belgium,14,23,Alexander Albon,Williams Mercedes,44,+96.184s,0
+2023,30 Jul,Belgium,15,20,Kevin Magnussen,Haas Ferrari,44,+101.754s,0
+2023,30 Jul,Belgium,16,3,Daniel Ricciardo,AlphaTauri Honda RBPT,44,+103.071s,0
+2023,30 Jul,Belgium,17,2,Logan Sargeant,Williams Mercedes,44,+104.476s,0
+2023,30 Jul,Belgium,18,27,Nico Hulkenberg,Haas Ferrari,44,+110.450s,0
+2023,30 Jul,Belgium,NC,55,Carlos Sainz,Ferrari,23,DNF,0
+2023,30 Jul,Belgium,NC,81,Oscar Piastri,McLaren Mercedes,0,DNF,0
+2023,27 Aug,Netherlands,1,1,Max Verstappen,Red Bull Racing Honda RBPT,72,2:24:04.411,25
+2023,27 Aug,Netherlands,2,14,Fernando Alonso,Aston Martin Aramco Mercedes,72,+3.744s,19
+2023,27 Aug,Netherlands,3,10,Pierre Gasly,Alpine Renault,72,+7.058s,15
+2023,27 Aug,Netherlands,4,11,Sergio Perez,Red Bull Racing Honda RBPT,72,+10.068s,12
+2023,27 Aug,Netherlands,5,55,Carlos Sainz,Ferrari,72,+12.541s,10
+2023,27 Aug,Netherlands,6,44,Lewis Hamilton,Mercedes,72,+13.209s,8
+2023,27 Aug,Netherlands,7,4,Lando Norris,McLaren Mercedes,72,+13.232s,6
+2023,27 Aug,Netherlands,8,23,Alexander Albon,Williams Mercedes,72,+15.155s,4
+2023,27 Aug,Netherlands,9,81,Oscar Piastri,McLaren Mercedes,72,+16.580s,2
+2023,27 Aug,Netherlands,10,31,Esteban Ocon,Alpine Renault,72,+18.346s,1
+2023,27 Aug,Netherlands,11,18,Lance Stroll,Aston Martin Aramco Mercedes,72,+20.087s,0
+2023,27 Aug,Netherlands,12,27,Nico Hulkenberg,Haas Ferrari,72,+20.840s,0
+2023,27 Aug,Netherlands,13,40,Liam Lawson,AlphaTauri Honda RBPT,72,+26.147s,0
+2023,27 Aug,Netherlands,14,77,Valtteri Bottas,Alfa Romeo Ferrari,72,+27.388s,0
+2023,27 Aug,Netherlands,15,22,Yuki Tsunoda,AlphaTauri Honda RBPT,72,+29.893s,0
+2023,27 Aug,Netherlands,16,20,Kevin Magnussen,Haas Ferrari,72,+31.410s,0
+2023,27 Aug,Netherlands,17,63,George Russell,Mercedes,72,+55.754s,0
+2023,27 Aug,Netherlands,NC,24,Zhou Guanyu,Alfa Romeo Ferrari,62,DNF,0
+2023,27 Aug,Netherlands,NC,16,Charles Leclerc,Ferrari,41,DNF,0
+2023,27 Aug,Netherlands,NC,2,Logan Sargeant,Williams Mercedes,14,DNF,0
+2023,03 Sep,Italy,1,1,Max Verstappen,Red Bull Racing Honda RBPT,51,1:13:41.143,25
+2023,03 Sep,Italy,2,11,Sergio Perez,Red Bull Racing Honda RBPT,51,+6.064s,18
+2023,03 Sep,Italy,3,55,Carlos Sainz,Ferrari,51,+11.193s,15
+2023,03 Sep,Italy,4,16,Charles Leclerc,Ferrari,51,+11.377s,12
+2023,03 Sep,Italy,5,63,George Russell,Mercedes,51,+23.028s,10
+2023,03 Sep,Italy,6,44,Lewis Hamilton,Mercedes,51,+42.679s,8
+2023,03 Sep,Italy,7,23,Alexander Albon,Williams Mercedes,51,+45.106s,6
+2023,03 Sep,Italy,8,4,Lando Norris,McLaren Mercedes,51,+45.449s,4
+2023,03 Sep,Italy,9,14,Fernando Alonso,Aston Martin Aramco Mercedes,51,+46.294s,2
+2023,03 Sep,Italy,10,77,Valtteri Bottas,Alfa Romeo Ferrari,51,+64.056s,1
+2023,03 Sep,Italy,11,40,Liam Lawson,AlphaTauri Honda RBPT,51,+70.638s,0
+2023,03 Sep,Italy,12,81,Oscar Piastri,McLaren Mercedes,51,+73.074s,0
+2023,03 Sep,Italy,13,2,Logan Sargeant,Williams Mercedes,51,+78.557s,0
+2023,03 Sep,Italy,14,24,Zhou Guanyu,Alfa Romeo Ferrari,51,+80.164s,0
+2023,03 Sep,Italy,15,10,Pierre Gasly,Alpine Renault,51,+82.510s,0
+2023,03 Sep,Italy,16,18,Lance Stroll,Aston Martin Aramco Mercedes,51,+87.266s,0
+2023,03 Sep,Italy,17,27,Nico Hulkenberg,Haas Ferrari,50,+1,lap,0
+2023,03 Sep,Italy,18,20,Kevin Magnussen,Haas Ferrari,50,+1,lap,0
+2023,03 Sep,Italy,NC,31,Esteban Ocon,Alpine Renault,39,DNF,0
+2023,03 Sep,Italy,NC,22,Yuki Tsunoda,AlphaTauri Honda RBPT,0,DNS,0
+2023,17 Sep,Singapore,1,55,Carlos Sainz,Ferrari,62,1:46:37.418,25
+2023,17 Sep,Singapore,2,4,Lando Norris,McLaren Mercedes,62,+0.812s,18
+2023,17 Sep,Singapore,3,44,Lewis Hamilton,Mercedes,62,+1.269s,16
+2023,17 Sep,Singapore,4,16,Charles Leclerc,Ferrari,62,+21.177s,12
+2023,17 Sep,Singapore,5,1,Max Verstappen,Red Bull Racing Honda RBPT,62,+21.441s,10
+2023,17 Sep,Singapore,6,10,Pierre Gasly,Alpine Renault,62,+38.441s,8
+2023,17 Sep,Singapore,7,81,Oscar Piastri,McLaren Mercedes,62,+41.479s,6
+2023,17 Sep,Singapore,8,11,Sergio Perez,Red Bull Racing Honda RBPT,62,+59.534s,4
+2023,17 Sep,Singapore,9,40,Liam Lawson,AlphaTauri Honda RBPT,62,+65.918s,2
+2023,17 Sep,Singapore,10,20,Kevin Magnussen,Haas Ferrari,62,+72.116s,1
+2023,17 Sep,Singapore,11,23,Alexander Albon,Williams Mercedes,62,+73.417s,0
+2023,17 Sep,Singapore,12,24,Zhou Guanyu,Alfa Romeo Ferrari,62,+83.649s,0
+2023,17 Sep,Singapore,13,27,Nico Hulkenberg,Haas Ferrari,62,+86.201s,0
+2023,17 Sep,Singapore,14,2,Logan Sargeant,Williams Mercedes,62,+86.889s,0
+2023,17 Sep,Singapore,15,14,Fernando Alonso,Aston Martin Aramco Mercedes,62,+87.603s,0
+2023,17 Sep,Singapore,16,63,George Russell,Mercedes,61,DNF,0
+2023,17 Sep,Singapore,NC,77,Valtteri Bottas,Alfa Romeo Ferrari,51,DNF,0
+2023,17 Sep,Singapore,NC,31,Esteban Ocon,Alpine Renault,42,DNF,0
+2023,17 Sep,Singapore,NC,22,Yuki Tsunoda,AlphaTauri Honda RBPT,0,DNF,0
+2023,24 Sep,Japan,1,1,Max Verstappen,Red Bull Racing Honda RBPT,53,1:30:58.421,26
+2023,24 Sep,Japan,2,4,Lando Norris,McLaren Mercedes,53,+19.387s,18
+2023,24 Sep,Japan,3,81,Oscar Piastri,McLaren Mercedes,53,+36.494s,15
+2023,24 Sep,Japan,4,16,Charles Leclerc,Ferrari,53,+43.998s,12
+2023,24 Sep,Japan,5,44,Lewis Hamilton,Mercedes,53,+49.376s,10
+2023,24 Sep,Japan,6,55,Carlos Sainz,Ferrari,53,+50.221s,8
+2023,24 Sep,Japan,7,63,George Russell,Mercedes,53,+57.659s,6
+2023,24 Sep,Japan,8,14,Fernando Alonso,Aston Martin Aramco Mercedes,53,+74.725s,4
+2023,24 Sep,Japan,9,31,Esteban Ocon,Alpine Renault,53,+79.678s,2
+2023,24 Sep,Japan,10,10,Pierre Gasly,Alpine Renault,53,+83.155s,1
+2023,24 Sep,Japan,11,40,Liam Lawson,AlphaTauri Honda RBPT,52,+1,lap,0
+2023,24 Sep,Japan,12,22,Yuki Tsunoda,AlphaTauri Honda RBPT,52,+1,lap,0
+2023,24 Sep,Japan,13,24,Zhou Guanyu,Alfa Romeo Ferrari,52,+1,lap,0
+2023,24 Sep,Japan,14,27,Nico Hulkenberg,Haas Ferrari,52,+1,lap,0
+2023,24 Sep,Japan,15,20,Kevin Magnussen,Haas Ferrari,52,+1,lap,0
+2023,24 Sep,Japan,NC,23,Alexander Albon,Williams Mercedes,26,DNF,0
+2023,24 Sep,Japan,NC,2,Logan Sargeant,Williams Mercedes,22,DNF,0
+2023,24 Sep,Japan,NC,18,Lance Stroll,Aston Martin Aramco Mercedes,20,DNF,0
+2023,24 Sep,Japan,NC,11,Sergio Perez,Red Bull Racing Honda RBPT,15,DNF,0
+2023,24 Sep,Japan,NC,77,Valtteri Bottas,Alfa Romeo Ferrari,7,DNF,0
+2023,08 Oct,Qatar,1,1,Max Verstappen,Red Bull Racing Honda RBPT,57,1:27:39.168,26
+2023,08 Oct,Qatar,2,81,Oscar Piastri,McLaren Mercedes,57,+4.833s,18
+2023,08 Oct,Qatar,3,4,Lando Norris,McLaren Mercedes,57,+5.969s,15
+2023,08 Oct,Qatar,4,63,George Russell,Mercedes,57,+34.119s,12
+2023,08 Oct,Qatar,5,16,Charles Leclerc,Ferrari,57,+38.976s,10
+2023,08 Oct,Qatar,6,14,Fernando Alonso,Aston Martin Aramco Mercedes,57,+49.032s,8
+2023,08 Oct,Qatar,7,31,Esteban Ocon,Alpine Renault,57,+62.390s,6
+2023,08 Oct,Qatar,8,77,Valtteri Bottas,Alfa Romeo Ferrari,57,+66.563s,4
+2023,08 Oct,Qatar,9,24,Zhou Guanyu,Alfa Romeo Ferrari,57,+76.127s,2
+2023,08 Oct,Qatar,10,11,Sergio Perez,Red Bull Racing Honda RBPT,57,+80.181s,1
+2023,08 Oct,Qatar,11,18,Lance Stroll,Aston Martin Aramco Mercedes,57,+81.652s,0
+2023,08 Oct,Qatar,12,10,Pierre Gasly,Alpine Renault,57,+82.300s,0
+2023,08 Oct,Qatar,13,23,Alexander Albon,Williams Mercedes,57,+91.014s,0
+2023,08 Oct,Qatar,14,20,Kevin Magnussen,Haas Ferrari,56,+1,lap,0
+2023,08 Oct,Qatar,15,22,Yuki Tsunoda,AlphaTauri Honda RBPT,56,+1,lap,0
+2023,08 Oct,Qatar,16,27,Nico Hulkenberg,Haas Ferrari,56,+1,lap,0
+2023,08 Oct,Qatar,17,40,Liam Lawson,AlphaTauri Honda RBPT,56,+1,lap,0
+2023,08 Oct,Qatar,NC,2,Logan Sargeant,Williams Mercedes,40,DNF,0
+2023,08 Oct,Qatar,NC,44,Lewis Hamilton,Mercedes,0,DNF,0
+2023,08 Oct,Qatar,NC,55,Carlos Sainz,Ferrari,0,DNS,0
+2023,22 Oct,United States,1,1,Max Verstappen,Red Bull Racing Honda RBPT,56,1:35:21.362,25
+2023,22 Oct,United States,DQ,44,Lewis Hamilton,Mercedes,56,+2.225s,0
+2023,22 Oct,United States,2,4,Lando Norris,McLaren Mercedes,56,+10.730s,0
+2023,22 Oct,United States,3,55,Carlos Sainz,Ferrari,56,+15.134s,0
+2023,22 Oct,United States,4,11,Sergio Perez,Red Bull Racing Honda RBPT,56,+18.460s,0
+2023,22 Oct,United States,DQ,16,Charles Leclerc,Ferrari,56,+24.662s,0
+2023,22 Oct,United States,5,63,George Russell,Mercedes,56,+24.999s,0
+2023,22 Oct,United States,6,10,Pierre Gasly,Alpine Renault,56,+47.996s,0
+2023,22 Oct,United States,7,18,Lance Stroll,Aston Martin Aramco Mercedes,56,+48.696s,0
+2023,22 Oct,United States,8,22,Yuki Tsunoda,AlphaTauri Honda RBPT,56,+74.385s,0
+2023,22 Oct,United States,9,23,Alexander Albon,Williams Mercedes,56,+86.714s,0
+2023,22 Oct,United States,10,2,Logan Sargeant,Williams Mercedes,56,+87.998s,0
+2023,22 Oct,United States,11,27,Nico Hulkenberg,Haas Ferrari,56,+89.904s,0
+2023,22 Oct,United States,12,77,Valtteri Bottas,Alfa Romeo Ferrari,56,+98.601s,0
+2023,22 Oct,United States,13,24,Zhou Guanyu,Alfa Romeo Ferrari,55,+1,lap,0
+2023,22 Oct,United States,14,20,Kevin Magnussen,Haas Ferrari,55,+1,lap,0
+2023,22 Oct,United States,15,3,Daniel Ricciardo,AlphaTauri Honda RBPT,55,+1,lap,0
+2023,22 Oct,United States,NC,14,Fernando Alonso,Aston Martin Aramco Mercedes,49,DNF,0
+2023,22 Oct,United States,NC,81,Oscar Piastri,McLaren Mercedes,10,DNF,0
+2023,22 Oct,United States,NC,31,Esteban Ocon,Alpine Renault,6,DNF,0
+2023,29 Oct,Mexico,1,1,Max Verstappen,Red Bull Racing Honda RBPT,71,2:02:30.814,25
+2023,29 Oct,Mexico,2,44,Lewis Hamilton,Mercedes,71,+13.875s,19
+2023,29 Oct,Mexico,3,16,Charles Leclerc,Ferrari,71,+23.124s,15
+2023,29 Oct,Mexico,4,55,Carlos Sainz,Ferrari,71,+27.154s,12
+2023,29 Oct,Mexico,5,4,Lando Norris,McLaren Mercedes,71,+33.266s,10
+2023,29 Oct,Mexico,6,63,George Russell,Mercedes,71,+41.020s,8
+2023,29 Oct,Mexico,7,3,Daniel Ricciardo,AlphaTauri Honda RBPT,71,+41.570s,6
+2023,29 Oct,Mexico,8,81,Oscar Piastri,McLaren Mercedes,71,+43.104s,4
+2023,29 Oct,Mexico,9,23,Alexander Albon,Williams Mercedes,71,+48.573s,2
+2023,29 Oct,Mexico,10,31,Esteban Ocon,Alpine Renault,71,+62.879s,1
+2023,29 Oct,Mexico,11,10,Pierre Gasly,Alpine Renault,71,+66.208s,0
+2023,29 Oct,Mexico,12,22,Yuki Tsunoda,AlphaTauri Honda RBPT,71,+78.982s,0
+2023,29 Oct,Mexico,13,27,Nico Hulkenberg,Haas Ferrari,71,+80.309s,0
+2023,29 Oct,Mexico,14,24,Zhou Guanyu,Alfa Romeo Ferrari,71,+81.676s,0
+2023,29 Oct,Mexico,15,77,Valtteri Bottas,Alfa Romeo Ferrari,71,+85.597s,0
+2023,29 Oct,Mexico,16,2,Logan Sargeant,Williams Mercedes,70,DNF,0
+2023,29 Oct,Mexico,17,18,Lance Stroll,Aston Martin Aramco Mercedes,66,DNF,0
+2023,29 Oct,Mexico,NC,14,Fernando Alonso,Aston Martin Aramco Mercedes,47,DNF,0
+2023,29 Oct,Mexico,NC,20,Kevin Magnussen,Haas Ferrari,31,DNF,0
+2023,29 Oct,Mexico,NC,11,Sergio Perez,Red Bull Racing Honda RBPT,1,DNF,0
+2023,05 Nov,Brazil,1,1,Max Verstappen,Red Bull Racing Honda RBPT,71,1:56:48.894,25
+2023,05 Nov,Brazil,2,4,Lando Norris,McLaren Mercedes,71,+8.277s,19
+2023,05 Nov,Brazil,3,14,Fernando Alonso,Aston Martin Aramco Mercedes,71,+34.155s,15
+2023,05 Nov,Brazil,4,11,Sergio Perez,Red Bull Racing Honda RBPT,71,+34.208s,12
+2023,05 Nov,Brazil,5,18,Lance Stroll,Aston Martin Aramco Mercedes,71,+40.845s,10
+2023,05 Nov,Brazil,6,55,Carlos Sainz,Ferrari,71,+50.188s,8
+2023,05 Nov,Brazil,7,10,Pierre Gasly,Alpine Renault,71,+56.093s,6
+2023,05 Nov,Brazil,8,44,Lewis Hamilton,Mercedes,71,+62.859s,4
+2023,05 Nov,Brazil,9,22,Yuki Tsunoda,AlphaTauri Honda RBPT,71,+69.880s,2
+2023,05 Nov,Brazil,10,31,Esteban Ocon,Alpine Renault,70,+1,lap,1
+2023,05 Nov,Brazil,11,2,Logan Sargeant,Williams Mercedes,70,+1,lap,0
+2023,05 Nov,Brazil,12,27,Nico Hulkenberg,Haas Ferrari,70,+1,lap,0
+2023,05 Nov,Brazil,13,3,Daniel Ricciardo,AlphaTauri Honda RBPT,70,+1,lap,0
+2023,05 Nov,Brazil,14,81,Oscar Piastri,McLaren Mercedes,69,+2,laps,0
+2023,05 Nov,Brazil,NC,63,George Russell,Mercedes,57,DNF,0
+2023,05 Nov,Brazil,NC,77,Valtteri Bottas,Alfa Romeo Ferrari,39,DNF,0
+2023,05 Nov,Brazil,NC,24,Zhou Guanyu,Alfa Romeo Ferrari,22,DNF,0
+2023,05 Nov,Brazil,NC,20,Kevin Magnussen,Haas Ferrari,0,DNF,0
+2023,05 Nov,Brazil,NC,23,Alexander Albon,Williams Mercedes,0,DNF,0
+2023,05 Nov,Brazil,NC,16,Charles Leclerc,Ferrari,0,DNS,0
+2023,18 Nov,Las Vegas,1,1,Max Verstappen,Red Bull Racing Honda RBPT,50,1:29:08.289,25
+2023,18 Nov,Las Vegas,2,16,Charles Leclerc,Ferrari,50,+2.070s,18
+2023,18 Nov,Las Vegas,3,11,Sergio Perez,Red Bull Racing Honda RBPT,50,+2.241s,15
+2023,18 Nov,Las Vegas,4,31,Esteban Ocon,Alpine Renault,50,+18.665s,12
+2023,18 Nov,Las Vegas,5,18,Lance Stroll,Aston Martin Aramco Mercedes,50,+20.067s,10
+2023,18 Nov,Las Vegas,6,55,Carlos Sainz,Ferrari,50,+20.834s,8
+2023,18 Nov,Las Vegas,7,44,Lewis Hamilton,Mercedes,50,+21.755s,6
+2023,18 Nov,Las Vegas,8,63,George Russell,Mercedes,50,+23.091s,4
+2023,18 Nov,Las Vegas,9,14,Fernando Alonso,Aston Martin Aramco Mercedes,50,+25.964s,2
+2023,18 Nov,Las Vegas,10,81,Oscar Piastri,McLaren Mercedes,50,+29.496s,2
+2023,18 Nov,Las Vegas,11,10,Pierre Gasly,Alpine Renault,50,+34.270s,0
+2023,18 Nov,Las Vegas,12,23,Alexander Albon,Williams Mercedes,50,+43.398s,0
+2023,18 Nov,Las Vegas,13,20,Kevin Magnussen,Haas Ferrari,50,+44.825s,0
+2023,18 Nov,Las Vegas,14,3,Daniel Ricciardo,AlphaTauri Honda RBPT,50,+48.525s,0
+2023,18 Nov,Las Vegas,15,24,Zhou Guanyu,Alfa Romeo Ferrari,50,+50.162s,0
+2023,18 Nov,Las Vegas,16,2,Logan Sargeant,Williams Mercedes,50,+50.882s,0
+2023,18 Nov,Las Vegas,17,77,Valtteri Bottas,Alfa Romeo Ferrari,50,+85.350s,0
+2023,18 Nov,Las Vegas,18,22,Yuki Tsunoda,AlphaTauri Honda RBPT,46,DNF,0
+2023,18 Nov,Las Vegas,19,27,Nico Hulkenberg,Haas Ferrari,45,DNF,0
+2023,18 Nov,Las Vegas,NC,4,Lando Norris,McLaren Mercedes,2,DNF,0
+2023,26 Nov,Abu Dhabi,1,1,Max Verstappen,Red Bull Racing Honda RBPT,58,1:27:02.624,26
+2023,26 Nov,Abu Dhabi,2,16,Charles Leclerc,Ferrari,58,+17.993s,18
+2023,26 Nov,Abu Dhabi,3,63,George Russell,Mercedes,58,+20.328s,15
+2023,26 Nov,Abu Dhabi,4,11,Sergio Perez,Red Bull Racing Honda RBPT,58,+21.453s,12
+2023,26 Nov,Abu Dhabi,5,4,Lando Norris,McLaren Mercedes,58,+24.284s,10
+2023,26 Nov,Abu Dhabi,6,81,Oscar Piastri,McLaren Mercedes,58,+31.487s,8
+2023,26 Nov,Abu Dhabi,7,14,Fernando Alonso,Aston Martin Aramco Mercedes,58,+39.512s,6
+2023,26 Nov,Abu Dhabi,8,22,Yuki Tsunoda,AlphaTauri Honda RBPT,58,+43.088s,4
+2023,26 Nov,Abu Dhabi,9,44,Lewis Hamilton,Mercedes,58,+44.424s,2
+2023,26 Nov,Abu Dhabi,10,18,Lance Stroll,Aston Martin Aramco Mercedes,58,+55.632s,1
+2023,26 Nov,Abu Dhabi,11,3,Daniel Ricciardo,AlphaTauri Honda RBPT,58,+56.229s,0
+2023,26 Nov,Abu Dhabi,12,31,Esteban Ocon,Alpine Renault,58,+66.373s,0
+2023,26 Nov,Abu Dhabi,13,10,Pierre Gasly,Alpine Renault,58,+70.360s,0
+2023,26 Nov,Abu Dhabi,14,23,Alexander Albon,Williams Mercedes,58,+73.184s,0
+2023,26 Nov,Abu Dhabi,15,27,Nico Hulkenberg,Haas Ferrari,58,+83.696s,0
+2023,26 Nov,Abu Dhabi,16,2,Logan Sargeant,Williams Mercedes,58,+87.791s,0
+2023,26 Nov,Abu Dhabi,17,24,Zhou Guanyu,Alfa Romeo Ferrari,58,+89.422s,0
+2023,26 Nov,Abu Dhabi,18,55,Carlos Sainz,Ferrari,57,DNF,0
+2023,26 Nov,Abu Dhabi,19,77,Valtteri Bottas,Alfa Romeo Ferrari,57,+1,lap,0
+2023,26 Nov,Abu Dhabi,20,20,Kevin Magnussen,Haas Ferrari,57,+1,lap,0
