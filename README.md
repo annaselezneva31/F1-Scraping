@@ -1,3 +1,4 @@
 # Custom F1 web scraper
-Language: python
-Result: file .csv with results of all races
+Language: python, selenium
+
+Result: file .csv with results of all races for chosen years (in example - last 3 years)
